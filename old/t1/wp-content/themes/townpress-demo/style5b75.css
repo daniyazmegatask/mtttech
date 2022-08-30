@@ -1,0 +1,89 @@
+/**
+* Theme Name: TownPress Demo
+* Theme URI: http://preview.lsvr.sk/townpress
+* Description: TownPress demo theme
+* Author: LSVRthemes
+* Author URI: http://themeforest.net/user/LSVRthemes/portfolio
+* Template: townpress
+* Version: 3.0.2
+*/
+
+/* -------------------------------------------------------------------------
+    STYLE SWITCHER
+------------------------------------------------------------------------- */
+
+.lsvr-style-switcher { position: fixed; top: 300px; right: -180px; padding-left: 50px; width: 230px; height: 50px; z-index: 50;
+	border: 1px solid #EEE; background-color: #FFF; border-radius: 5px 0 0 5px;
+	-moz-box-shadow: 0 0 10px rgba( 0, 0, 0, 0.15 ); -webkit-box-shadow: 0 0 10px rgba( 0, 0, 0, 0.15 ); box-shadow: 0 0 10px rgba( 0, 0, 0, 0.15 );
+	-webkit-transition: all, 300ms; -moz-transition: all, 300ms; -ms-transition: all, 300ms; -o-transition: all, 300ms; transition: all, 300ms;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.lsvr-style-switcher--active { right: 0; }
+.lsvr-style-switcher__toggle { display: block; position: absolute; top: 50%; left: 0; margin-top: -25px; width: 50px; height: 50px; font-size: 24px; text-align: center; cursor: pointer; color: #AAA; }
+.lsvr-style-switcher--active .lsvr-style-switcher__toggle,
+.lsvr-style-switcher__toggle:hover { color: #777; }
+.lsvr-style-switcher__toggle > i { position: relative; top: 2px; }
+.lsvr-style-switcher__toggle-icon--active { display: none; }
+.lsvr-style-switcher__toggle--active .lsvr-style-switcher__toggle-icon--inactive { display: none; }
+.lsvr-style-switcher__toggle--active .lsvr-style-switcher__toggle-icon--active { display: inline; }
+.lsvr-style-switcher__list { list-style-type: none; margin: 0; padding: 0; margin: 0; padding: 10px 0 0 0; }
+.lsvr-style-switcher__item { list-style-type: none; margin: 0; padding: 0; line-height: normal; float: left; margin-left: 5px; }
+.lsvr-style-switcher__item:first-child { margin-left: 0; }
+.lsvr-style-switcher__item-button { display: block; width: 30px; height: 30px; text-align: center; line-height: 28px;
+	-webkit-transition: all, 300ms; -moz-transition: all, 300ms; -ms-transition: all, 300ms; -o-transition: all, 300ms; transition: all, 300ms; }
+.lsvr-style-switcher__item-label { display: none; }
+.lsvr-style-switcher__item--active .lsvr-style-switcher__item-button { opacity: 0.5; }
+.lsvr-style-switcher__item-button--default { background-color: #EC5237; }
+.lsvr-style-switcher__item-button--blue { background-color: #2196F3; }
+.lsvr-style-switcher__item-button--green { background-color: #4CAF50; }
+.lsvr-style-switcher__item-button--orange { background-color: #FB8C00; }
+.lsvr-style-switcher__item-button--bluegrey { background-color: #607D8B; }
+
+/* -----------------------------------------------------------------------------
+
+    RESPONSIVE DEFINITIONS
+
+----------------------------------------------------------------------------- */
+
+    /* -------------------------------------------------------------------------
+        LARGE DEVICES
+		devices with width between 992px and 1199px
+    ------------------------------------------------------------------------- */
+
+    @media ( max-width: 1199px ) {
+
+		/* your CSS here */
+
+	}
+
+    /* -------------------------------------------------------------------------
+        MEDIUM DEVICES
+		devices with width between 768px and 991px
+    ------------------------------------------------------------------------- */
+
+    @media ( max-width: 991px ) {
+
+		/* your CSS here */
+
+	}
+
+	/* -------------------------------------------------------------------------
+        SMALL DEVICES
+		devices with width between 481px and 767px
+    ------------------------------------------------------------------------- */
+
+    @media ( max-width: 767px ) {
+
+		/* your CSS here */
+
+	}
+
+	/* -------------------------------------------------------------------------
+        EXTRA SMALL DEVICES
+		devices with width up to 480px
+    ------------------------------------------------------------------------- */
+
+	@media ( max-width: 480px ) {
+
+		/* your CSS here */
+
+	}
