@@ -75,7 +75,7 @@ class Index extends CI_Controller
     public function ecommerce()
     {
         $data = array();
-        $data["title"] = "eCommerce Website Development Company - Megatask Technoloiges Pvt. Ltd.";
+        $data["title"] = "eCommerce Website Development Company Delhi - Megatask";
 
 
          $data["meta_title"] = $data["title"];
@@ -92,12 +92,12 @@ class Index extends CI_Controller
     public function seo_services()
     {
 		$data = array();
-		$data["title"] = "Best SEO Company in Delhi, SEO services in Delhi, SEO";
+		$data["title"] = "SEO Services in Delhi - Megatask Technologies";
 
 
 		$data["meta_title"] = $data["title"];
-		$data["meta_description"] = "Our SEO Company in Delhi starts by in-depth best research for your business related to current status, trends and carving a long term Search Engine Optimization strategy to attract positive traffic to your website.";
-		$data["meta_keyword"] = "search engine optimization, seo company in delhi, seo agency in delhi, seo agency, local seo services, local seo in delhi, local listing, seo services in delhi-ncr, link building services, seo company, on page seo, off page seo, webmaster, trends";
+		$data["meta_description"] = "Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+		$data["meta_keyword"] = "seo services in delhi, seo company in delhi, seo agency in delhi, local seo services, local seo in delhi";
 
 
 
@@ -110,11 +110,11 @@ class Index extends CI_Controller
     public function smo_services()
     {
         $data = array();
-        $data["title"] = "Social Media Optimization, SMO Services in Delhi, Megatask Technologies";
+        $data["title"] = "SMO Services in Delhi - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We deal in Social Media Optimization in Delhi, India. Our SMO Company helps you online visibility to expel through our excellent SMO Tricks and Technolques.";
+        $data["meta_description"] = "We are a professional Social Media Marketing Agency in Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
         $data["meta_keyword"] = "social media optimization, smo services in delhi, smo agency in delhi, social media optimization services delhi, local smo services";
 
 
@@ -127,7 +127,7 @@ class Index extends CI_Controller
     public function smm_services()
     {
         $data = array();
-        $data["title"] = "Social Media Marketing, SMM Services in Delhi, SMM agency in Delhi";
+        $data["title"] = "Social Media Marketing in Delhi - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
@@ -144,11 +144,11 @@ class Index extends CI_Controller
     public function email_services()
     {
         $data = array();
-        $data["title"] = "Email Marketing Services In Delhi, Email Marketing In Delhi";
+        $data["title"] = "Email Marketing Services in India - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We at Megatask Technologies offer best Email Marketing Services in Delhi provide bulk email to our client by which you can promote your business.";
+        $data["meta_description"] = "We offers Content Writing Services in Delhi our content writers are expert and provide affordable website content for make your website readable and unique.";
         $data["meta_keyword"] = "email marketing services in delhi, email marketing in delhi, email services, bulk email providers,email marketing agency, email marketing agency near me, email marketing services";
 
 
@@ -161,7 +161,7 @@ class Index extends CI_Controller
     public function content_writing()
     {
         $data = array();
-        $data["title"] = "#1 Content Writing Agency in Delhi - Megatask Technologies";
+        $data["title"] = "Content Writing Services in Delhi - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
@@ -178,11 +178,12 @@ class Index extends CI_Controller
     public function google_analytics()
     {
         $data = array();
-        $data["title"] = "Website Analytic Services in Delhi, competetor analtics";
+        $data["title"] = "Google Analytics Consulting Services - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "The Website Analytics Services can provide useful information about the source of website traffic, how users are navigating and interacting throughout a website.";
+        $data["meta_description"] = "The Google Analytics Services can provide useful information about the source of website traffic, how users are navigating and interacting throughout a website.
+        ";
         $data["meta_keyword"] = "website analytics services, web analytics service delhi, traffic analtics agency india";
 
 
@@ -195,11 +196,11 @@ class Index extends CI_Controller
     public function sem_services()
     {
         $data = array();
-        $data["title"] = "search engine marketing in delhi, sem Services in delhi, sem company in delhi";
+        $data["title"] = "SEM Services in Delhi - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megask always prefer to give best offers to search engine marketing in delhi and deliver transformational traffic growth through facebook and other social medial paid marketing campaigns.";
+        $data["meta_description"] = "Megask always prefer to give best offers to SEM Services and deliver transformational traffic through facebook and other social medial paid marketing campaigns.";
         $data["meta_keyword"] = "sem services in india, sem services company india, sem services dubai, sem services delhi-ncr";
 
 
@@ -229,11 +230,11 @@ class Index extends CI_Controller
     public function ppc_services()
     {
         $data = array();
-        $data["title"] = "Best PPC Services In Delhi, Pay Per Click Services In Delhi - Megatask Technoloiges";
+        $data["title"] = "PPC Services in Delhi - Megatask Technoloiges";
 
 
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask Technologies is a Pay Per Click PPC Ads Management Company in Delhi, a Google certified PPC Services Company with a solid ROI to increase your business traffic and gross revenue";
+        $data["meta_description"] = "Megatask Technologies is a Pay Per Click Ads Management Company in Delhi, a Google certified PPC Services with a solid ROI to increase your business revenue.";
         $data["meta_keyword"] = "PPC Services in Delhi, Pay Per Click Agency Delhi, cheap PPC Services, PPC Company in Delhi, Best Pay Per Click (PPC) Management Services in Delhi, Best PPC Management Company, PPC Services India, PPC Company in Delhi, PPC Pay per click Services Company, Best PPC Agency in Delhi";
 
 
@@ -263,7 +264,7 @@ class Index extends CI_Controller
     public function website_redesign()
     {
         $data = array();
-        $data["title"] = "Best Website Redesign Agancy in Delhi, Website Redesign Company";
+        $data["title"] = "Website Redesign Services in Delhi - Megatask";
 
 
         $data["meta_title"] = $data["title"];
@@ -279,11 +280,11 @@ class Index extends CI_Controller
     public function responsive_website()
     {
         $data = array();
-        $data["title"] = "Responsive Website Design Company Delhi , India - Megatask Technologies";
+        $data["title"] = "Responsive Web Design Services - Megatask";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are best responsive Website Design Company based in Delhi offering device based responsive website. Our highly experienced designers build high quality mobile Search Engine friendly websites.";
+        $data["meta_description"] = "Complete Website Maintenance Service and Support for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan..";
         $data["meta_keyword"] = "responsive website design delhi, responsive web design delhi, responsive web services delhi-ncr, responsive website designer delhi";
 
 
@@ -295,7 +296,7 @@ class Index extends CI_Controller
     public function maintenance_website()
     {
         $data = array();
-        $data["title"] = "Website Maintenance Services - Delhi's First Systemized Website Maintenance Company";
+        $data["title"] = "Website Maintenance Services in Delhi - Mega Task";
 
 
         $data["meta_title"] = $data["title"];
@@ -498,7 +499,7 @@ class Index extends CI_Controller
     public function software_development()
     {
         $data = array();
-        $data["title"] = "#1 Software Development Company in Delhi NCR, India: Pepper-Designs";
+        $data["title"] = "Software Development Company in Delhi - Megatask";
 		
 		$data["meta_title"] = $data["title"];
         $data["meta_description"] = "Megatask Technologies is #1 Software development agency in Delhi, NCR. We assist you with professional software development services in Delhi.";

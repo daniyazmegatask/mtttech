@@ -27,9 +27,9 @@
          </div>
          <div class=" col-sm-6 ">
             <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-               <h3 class="text-left"><strong class="lead">Social Media Marketing Basics</strong></h3>
+               <h1 class="text-left"><strong>Social Media Marketing Basics</strong></h1>
                <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Promote Your Company Story and News on the Right Platform</h1>
-               <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Social media channels have become a major source of news and information in today’s internet-driven world. But that’s not all. <strong><a href="https://megatasktechnologies.com/smm-services">Social media marketing</a></strong> is also a vital factor in search rankings and digital marketing.</p>
+               <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Social media channels have become a major source of news and information in today’s internet-driven world. But that’s not all. Social media marketing is also a vital factor in search rankings and digital marketing.</p>
                <p class="text-justify wow fadeInUp pt-0" data-wow-delay=".25s">As social media usage continues to grow exponentially, knowing how to market on social media is becoming more crucial in reaching your target demographics and creating brand awareness. Many marketers, however, enter the digital and social media marketing realm without fully understanding what is social media marketing and its demands. Don’t make the same mistake.</p>
                <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
                   <div class="images "> <span>
@@ -196,7 +196,7 @@
       </div>
       <div class="row">
          <div class="col-sm-12 pt-4 pb-4 text-left text-flow ">
-            <h2 class="text-dark">Sell and engage your audience with Megatask technologies PVT LTD </h2> </div>
+            <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>Sell and engage your audience with Megatask technologies PVT LTD</strong> </p>
          <div class="col-sm-12 text-left">
             <p class="text-justify text-dark">Social media marketing services have numerous advantages for startups and established brands. With the right social media marketing plan and campaign monitoring system, social media content marketing can lead to increased search traffic, better SEO, healthier customer engagement and improved brand loyalty.</p>
             <p class="text-justify text-dark">Marketing through social media is one of the best ways to humanize your brand and provide customers with an insider’s view of what’s going on in your company. Capitalize on Megatask social media marketing services and get more people to advocate for your brand! <a href="<?php echo base_url()?>contact-us" class="inline-herf"> Contact our social media marketing firm now </a>to learn more about how to use social media for marketing.</p>

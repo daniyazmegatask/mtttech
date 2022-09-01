@@ -25,7 +25,7 @@
          </div>
          <div class=" col-sm-6 ">
             <div class="title_lead mb-5" data-wow-delay=".20s">
-               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong class="lead ">What Is Email Marketing?</strong> </p>
+               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>What Is Email Marketing?</strong> </p>
                <h2 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Evolution of brand the best Email Marketing Services in Delhi</h2>
                <!-- <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> --></div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
@@ -57,7 +57,7 @@
 
                </div> -->
                <div class="content text-justify text-dark">
-                  <p> Megatask Technoloeis is a boutique <a href="https://megatasktechnologies.com/email-services"><strong>email marketing services in delhi</strong></a> that provides custom email newsletter and email campaign management for businesses of all sizes. The team of experts with over years of industry experience easily make ideas into high-converting campaigns. When it comes to generating and converting leads, there isn’t a more powerful digital marketing tactic than email marketing. Studies show that despite the growth and prominence of mobile messengers and chat applications, nearly 61 percent of consumers prefer facilitated brand interactions via email – and this preference extends across genders and age groups. The widespread usage and increasing global relevance of email make email marketing more critical than ever before. </p>
+                  <p> Megatask Technoloeis is a boutique email marketing services in delhi that provides custom email newsletter and email campaign management for businesses of all sizes. The team of experts with over years of industry experience easily make ideas into high-converting campaigns. When it comes to generating and converting leads, there isn’t a more powerful digital marketing tactic than email marketing. Studies show that despite the growth and prominence of mobile messengers and chat applications, nearly 61 percent of consumers prefer facilitated brand interactions via email – and this preference extends across genders and age groups. The widespread usage and increasing global relevance of email make email marketing more critical than ever before. </p>
                   <div class="contactExperts wow rotateInUpLeft pt-3" data-wow-delay=".40s">
                      <div class="images "> <span>
 

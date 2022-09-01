@@ -18,13 +18,13 @@
 		<div class="row BannerOpenGraph101">
 			<div class=" col-sm-6">
 				<div class="title_lead wow fadeInUp bounceLeft-101 " data-wow-delay=".20s">
-					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/UWD-web.gif')?>" class="text-center" alt="Creative Web Designer - Delhi Web Designer"> </div>
+					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/UWD-web.gif')?>" class="text-center redisignimg"  alt="Creative Web Designer - Delhi Web Designer"> </div>
 				</div>
 			</div>
 			<div class=" col-sm-6 ">
 				<div class="title_lead mb-5" data-wow-delay=".20s">
-					<h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Creative Web Designer - Delhi Web Designer</h1>
-					<p class="text-justify wow bounceInRight" data-wow-delay=".30s"> Since you’re here, you’re probably going through a <strong><a href="https://megatasktechnologies.com/website-redesign">website redesign company</a></strong> or are at least considering one. Maybe your site is looking outdated and you feel it’s time for a change, or maybe there’s an issue of stagnant traffic and decreasing conversions you want to tackle by redesigning the experience. Whatever the cause, in our experience a redesign can solve a lot of problems, but—if done wrong—can also ruin entire businesses (you’ll read a story about that below). This guide is here to help you carry out a successful redesign. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> </div>
+					<h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Website Redesign Services</h1>
+					<p class="text-justify wow bounceInRight" data-wow-delay=".30s"> Since you’re here, you’re probably going through a website redesign company or are at least considering one. Maybe your site is looking outdated and you feel it’s time for a change, or maybe there’s an issue of stagnant traffic and decreasing conversions you want to tackle by redesigning the experience. Whatever the cause, in our experience a redesign can solve a lot of problems, but—if done wrong—can also ruin entire businesses (you’ll read a story about that below). This guide is here to help you carry out a successful redesign. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> </div>
 				<div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
 					<div class="images ">
 					<span>
@@ -43,7 +43,7 @@
 		<div class="row">
 			<div class="col-sm-12 design-process-bg">
 				<div class="pt-5">
-					<h2 class="text-center text-white">We don’t compromise with the best Web Designing Solution</h2> </div>
+					<h2 class="text-center text-white">Best Website Redesign Solution</h2> </div>
 			</div>
 		</div>
 		<div class="row">
@@ -119,7 +119,7 @@
 		<div class="row pt-5 pb-5">
 			<div class=" col-sm-12  ">
 				<div class="title_lead pl-4 pr-4">
-					<h2 class="text-center text-white"><strong class="lead">OUR MISSION IS                  </strong>               </h2>
+					<h3 class="text-center text-white"><strong class="lead">OUR MISSION IS                  </strong>               </h3>
 					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT                  INSPIRE TRUST AND AUTHORITY               </h4>
 					<p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
 				</div>
@@ -135,7 +135,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon1.svg" class="opacity-1" alt="Website Redesign in india"  > </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title text-white">Who We Are?</h2>
+											<h3 class="image-box-title text-white">Who We Are?</h3>
 											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -147,7 +147,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" class="opacity-1" alt="online Website Redesign in india" > </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">What We Do?</h2>
+											<h3 class="image-box-title">What We Do?</h3>
 											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -161,7 +161,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon3.svg" class="opacity-1" alt="Web Redesign in delhi" > </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">Who We Help?</h2>
+											<h3 class="image-box-title">Who We Help?</h3>
 											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -173,7 +173,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" alt="online Webs Redesign in delhi"  class="opacity-1"> </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">What Is Next ?</h2>
+											<h3 class="image-box-title">What Is Next ?</h3>
 											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>

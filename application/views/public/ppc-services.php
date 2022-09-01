@@ -19,13 +19,14 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img class="text-center ppc" src="<?=base_url()?>assets/images/ppc-1.gif" alt="What Is Pay Per Click and How Does It Work?" class="" />
+               <div class="something-imagin-bg mt-5 "> <img class="text-center ppc " src="<?=base_url()?>assets/images/ppc-1.gif" alt="What Is Pay Per Click and How Does It Work?" class="" />
                   <!-- <img src="<?= base_url('assets/images/ppc-1.gif')?>" class="text-center pull-right "  style="width:100%"  > --></div>
             </div>
          </div>
          <div class=" col-sm-6 ">
             <div class="title_lead mb-5" data-wow-delay=".20s">
-               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong class="lead ">What Is Pay Per Click and How Does It Work?</strong> </p>
+               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>What Is Pay Per Click and How Does It Work?</strong> </p>
+               
                <h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Grow Your Business With Optimized Paid Search Campaigns</h1>
                <!-- <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> --></div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
@@ -56,7 +57,7 @@
 
                </div> -->
                <div class="content text-justify text-dark">
-                  <p> A Hanapin Marketing report shows that 79 percent of marketers find paid search marketing beneficial to their business. Consequently, approximately 62 percent of industry players said they would continue to increase their PPC ( <a href="<?php echo base_url()?>ppc-services" style="color: #007bff;"> <strong>PPC Services In Delhi </strong></a> ) ads budget in the coming years to draw new customers looking for their services.</p>
+                  <p> A Hanapin Marketing report shows that 79 percent of marketers find paid search marketing beneficial to their business. Consequently, approximately 62 percent of industry players said they would continue to increase their PPC ( PPC Services In Delhi ) ads budget in the coming years to draw new customers looking for their services.</p>
                   <p> According to Social Media Today, more than 7 million advertisers spent a total of $10.01 billion for pay per click ads in 2017 alone. Evidently, pay per click has become one of the most widely used marketing frameworks for generating higher ROI. But what is pay per click and how can it ramp up your digital marketing efforts?</p>
                </div>
             </div>
@@ -71,7 +72,7 @@
             <div class="title_lead pl-4 pr-4">
                <h3 class="text-left  wow fadeInLeft " data-wow-delay=".20s"><strong class="lead">What is PPC?</strong></h3>
                <h2 class="text-left  text-left wow bounceInLeft  " data-wow-delay=".25s">Know About It Before Spending Your Money On It</h2>
-               <p class="text-justify wow bounceInLeft  " data-wow-delay=".30s"> Pay per click ( <a href="<?php echo base_url()?>ppc-services" style="color: #007bff;"> <strong>pay per click services in delhi</strong> </a> ) marketing is a paid search model used to build brand awareness, promote brand offerings and gain immediate traction from specific audience segments. With PPC, advertisers only pay each time a user clicks on the PPC ads -- hence the name pay-per-click. </p>
+               <p class="text-justify wow bounceInLeft  " data-wow-delay=".30s"> Pay per click ( pay per click services in delhi ) marketing is a paid search model used to build brand awareness, promote brand offerings and gain immediate traction from specific audience segments. With PPC, advertisers only pay each time a user clicks on the PPC ads -- hence the name pay-per-click. </p>
                <p class="text-justify wow bounceInLeft  " data-wow-delay=".30s"> People usually think of Google PPC when hearing or talking about what is pay per click. But pay-per-click goes beyond the Google search engine results pages (SERPs) and the Google Display Network. Social media sites, such as YouTube, Facebook, Pinterest and LinkedIn, also use the pay per click model. </p>
                <!--    <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote   wow bounceInLeft " data-wow-delay=".50s" type="submit">Contact Us</a> --></div>
          </div>
@@ -302,7 +303,7 @@
             <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
                <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
                <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
-               <p class="text-justify wow fadeInUp" >Our experts consider digital marketing, <strong><a href="<?php echo base_url();?>" style="color: #ffffff;">web designing company in delhi</a></strong> to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
+               <p class="text-justify wow fadeInUp" >Our experts consider digital marketing, <strong><a href="<?php echo base_url();?>web-development" style="color: #ffffff;">web designing company in delhi</a></strong> to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
                <!--<p>Best Digital Marketing Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
          </div>
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">

@@ -35,9 +35,9 @@
       </div>
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-         <h3 class="text-left"><strong class="lead">Years Of Excellence In Software Development</strong></h3>
-          <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s"></h1>
-          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Megatask Web offers a wide range of customized <strong><a href="https://megatasktechnologies.com/software-development">software development services</a></strong> worldwide; we are a professional software development company based in Dubai. We have outstanding experience in custom software development and database development, database development, desktop, and distributed application design as well as various custom software components and internet-project programming.</p>
+         <h1 class="text-left"><strong class="lead">Years Of Excellence In Software Development</strong></h1>
+           <!-- <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s"></h1>  -->
+          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Megatask Web offers a wide range of customized software development services worldwide; we are a professional software development company based in Delhi. We have outstanding experience in custom software development and database development, database development, desktop, and distributed application design as well as various custom software components and internet-project programming.</p>
           <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">We meet the expense of our clients subsequent to the involve tailor-made software solutions that will meet their specific situation requirements. Our team of experienced and in the surgically removed from ahead software developers will join application rotate at the forefront when your descent of business.</p>
 
 
@@ -93,7 +93,7 @@
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
           <h3 class="text-left"><strong class="lead">Spreader Driver Updater</strong></h3>
-          <h2 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">The Most Powerful Driver Fixer Software</h2>
+          <h2 class="text-leftpara  text-left wow fadeInUp " data-wow-delay=".20s">The Most Powerful Driver Fixer Software</h2>
           <p class="text-left wow fadeInUp  " data-wow-delay=".25s">Spreader Driver Updater is a driver fixer software and peripheral management utility that makes adding, removing, and maintaining your computer’s internal and external peripherals a breeze. Spreader Driver Updater device identification engine Smart Update™ Software Locator ensures that your devices have the latest drivers and are functioning at optimal efficiency.</p>
         </div>
       </div>
@@ -112,7 +112,7 @@
        <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
           <h3 class="text-left"><strong class="lead">Spreader PC Cleaner</strong></h3>
-          <h2 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">The Perfect Remedy For A Slow Computer</h2>
+          <h2 class="text-leftpara  text-left wow fadeInUp " data-wow-delay=".20s">The Perfect Remedy For A Slow Computer</h2>
           <p class="text-left wow fadeInUp  " data-wow-delay=".25s">The perfect remedy for a slow computer or frequent crashes, our Spreader PC Cleaner software is a handy utility that finds and cleans out unnecessary clutter — file fragments, temporary files, and browser cookies — leaving your PC spotless. Spreader PC Cleaner manages your system’s resources to give you better startup times, improved performance, and a safer online and offline experience.</p>
         </div>
       </div>
@@ -144,7 +144,7 @@
 
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-           <h2 class="text-left "><strong class="lead">WHY HIRE US FOR SOFTWARE DEVELOPMENT IN DUBAI?</strong></h2>
+           <h2 class="text-left "><strong class="lead">WHY HIRE US FOR SOFTWARE DEVELOPMENT IN DELHI?</strong></h2>
 
 
           <!-- <h3 class="text-left  text-white wow fadeInUp " data-wow-delay=".20s">WHY HIRE US FOR SOFTWARE DEVELOPMENT IN DUBAI?</h3> -->
@@ -153,7 +153,7 @@
 
           <p class="text-left  text-white wow fadeInUp  " data-wow-delay=".25s">
             
-            The development of reliable and worthwhile software cannot be fulfilled without inviting the knowledge, qualification, and experience of the software developers. We know this need and hired a multitasking team of software developers, who can support the demand of abundant clients qualitatively. Being the fastest growing software development company in Dubai, UAE we use the latest and innovative tools and techniques to ensure a polished piece every time. We always try to keep satisfying our customers by delivering the best software, which is executing flawlessly and catering to the client’s expectations.
+            The development of reliable and worthwhile software cannot be fulfilled without inviting the knowledge, qualification, and experience of the software developers. We know this need and hired a multitasking team of software developers, who can support the demand of abundant clients qualitatively. Being the fastest growing software development company in Delhi, INDIA we use the latest and innovative tools and techniques to ensure a polished piece every time. We always try to keep satisfying our customers by delivering the best software, which is executing flawlessly and catering to the client’s expectations.
 
 
           </p>

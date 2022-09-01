@@ -122,8 +122,8 @@
     <div class="row pt-5 pb-5">
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4">
-          <h2 class="text-left text-white"><strong class="lead">How to Efficiently Implement an SEO?</strong></h2>
-          <h2 class="text-left text-white wow fadeInUp" data-wow-delay=".20s">We’re The Perfect Local Business Assists </h2>
+          <p class="text-left text-white"><strong class="lead">How to Efficiently Implement an SEO?</strong></p>
+          <p class="text-left text-white wow fadeInUp" data-wow-delay=".20s">We’re The Perfect Local Business Assists </p>
           <p class="text-left text-white wow fadeInUp  " data-wow-delay=".25s">Simply dummy text of the printing and typesetting industry. </p>
         </div>
       </div>
@@ -136,7 +136,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Happy-Customers-wht.png" alt="Happy Customers" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">845+</h2>
+                    <p  style="font-size:2rem"class="image-box-title">845+</p>
                       <p class="image-box-description">Happy Customers</p>
                     </div>
                   </div>
@@ -149,7 +149,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" class="Happy Customers" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">378+</h2>
+                      <p  style="font-size:2rem"class="image-box-title">378+</p>
                       <p class="image-box-description">Project Done</p>
                     </div>
                   </div>
@@ -164,7 +164,8 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Team Members" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">634+</h2>
+                      <p  style="font-size:2rem"class="image-box-title">634+</p>
+                      
                       <p class="image-box-description">Team Members</p>
                     </div>
                   </div>
@@ -177,7 +178,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Global Presence" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">947+</h2>
+                      <p  style="font-size:2rem"class="image-box-title">947+</p>
                       <p class="image-box-description">Global Presence</p>
                     </div>
                   </div>

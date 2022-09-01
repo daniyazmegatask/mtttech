@@ -1399,6 +1399,7 @@ html {
 
 }
 
+
 .title_lead h3 {
 
     font-weight: 400;
@@ -1414,6 +1415,23 @@ html {
     color: #081820;
 
     margin: 0px 0px 10px;
+
+}
+.title_leadsmohead h3 {
+
+  font-weight: 400;
+
+  font-size: 32px;
+
+  border-color: rgb(102, 102, 102);
+
+  margin: 0px;
+
+  padding: 0px;
+
+  color: #081820;
+
+  margin: 0px 0px 10px;
 
 }
 
@@ -1494,6 +1512,53 @@ html {
 
 
 }
+
+h1.text-left strong{
+  color: #f35444;
+
+  font-weight: 400;
+
+  font-size: 32px;
+
+  border-color: rgb(102, 102, 102);
+
+  margin: 0px;
+
+  padding: 0px;
+
+  
+
+  margin: 0px 0px 10px;
+}
+@media (max-width: 768px){
+  h1.text-left strong {
+    font-size: 22px;
+}
+}
+p.text-left strong{
+  color: #f35444;
+
+  font-weight: 400;
+
+  font-size: 32px;
+
+  border-color: rgb(102, 102, 102);
+
+  margin: 0px;
+
+  padding: 0px;
+
+  margin: 0px 0px 10px;
+  line-height: 40px;
+}
+@media (max-width: 768px){
+  p.text-left strong {
+    font-size: 22px;
+    line-height: 30px;
+}
+}
+
+
 
 .ractangle_inbanner {
     margin-left: 85px;
@@ -5022,4 +5087,30 @@ text-align: center;
 
 
 
+}
+.text-leftpara {
+  font-weight: 600;
+}
+img.text-center.redisignimg {
+  width: 100%;
+}
+img.bounce-1.img {
+  width: 100%;
+}
+.semfhead p {
+  font-weight: 700;
+  font-size: 40px;
+  border-color: rgb(102, 102, 102);
+  margin: 0px;
+  padding: 0px;
+  color: #000000c9;
+  margin: 0px 0px -30px;
+  line-height: 40px !important;
+
+}
+@media (max-width: 768px){
+.semfhead p {
+    font-size: 30px;
+  
+}
 }

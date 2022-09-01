@@ -19,13 +19,18 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-md-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right" src="<?=base_url()?>assets/images/sem-1.gif" class="bounce-1" alt="online SEM Services in delhi" /> </div>
+               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right semservice" src="<?=base_url()?>assets/images/sem-1.gif" class="bounce-1" alt="online SEM Services in delhi" /> </div>
             </div>
          </div>
          <div class=" col-md-6 ">
             <div class="title_lead mb-5" data-wow-delay=".20s">
-               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong class="lead ">What is SEM and Why It’s a Great Investment</strong> </p>
-               <h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Outpace the Competition and Grow Your Business</h1> </div>
+              <h1 class="text-left"><strong>What is SEM and Why It’s a Great Investment</strong></h1>
+               <!-- <h1 style="font-size:15px"class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong class="lead ">What is SEM and Why It’s a Great Investment</strong> </h1> -->
+               <div class="semfhead">
+                  <p  data-wow-delay=".40s">Outpace the Competition and Grow Your Business</p>
+               </div>
+               
+             </div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
                <div class="content text-justify text-dark">
                   <p>Anyone with a website can leverage search engines to promote their products and services and connect with key stakeholders. You have most likely learned about search engines in your search engine optimization (SEO) strategies, but you may not be familiar with their role in search engine marketing.</p>

@@ -22,16 +22,16 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/giphy-4.gif" alt="Best SEO Marketing Agency In India" class="bounce-1" /> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/giphy-4.gif" alt="Best SEO Marketing Agency In India" class="bounce-1 img" /> </p>
           </div>
         </div>
       </div>
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
           <!--<h3 class="text-left"><strong class="lead">Best SEO Marketing Agency In India</strong></h3>-->
-          <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">#1 SEO Company in Delhi Boost Your Website Organic Traffic & ROI</h1>
-          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">SEO (Search Engine Optimization) is an important part of any businesse’s. If SEO is weak of any businesse’s then business will never sustain either you invest sufficient money in that business. But we have two choice of marketing, i.e. Offline and Online. Offline is more expensive and not work effectively. That’s why our expert support you SEO services. We, Megatask Technologies are a fastest growing <strong><a href="<?php echo base_url()?>seo-services" style="color: #007bff;" >seo company in delhi</a></strong>. While looking for an SEO expert you must have a certain aspect before finalizing one agency for your SEO. For instance, make sure that you look if the company you are looking forward to hiring for your SEO, is it doing white hat SEO or not. The reason behind the same is, white hat SEO is considered important for the growth of a business. Several SEO Companies make backlinks out of the box but we as SEO Consultants make sure it is all organic results. Our team of experts follows a strong Technical SEO on your website which will convert your organic traffic into leads. All that you need to know is that your business needs growth and only an SEO company can help you with organic visibility which will cost you nothing, which is quite similar to google ads.</p> </div>
-      </div>
+          <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">SEO Services in Delhi Boost Your Website Organic Traffic & ROI</h1>
+          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">SEO (Search Engine Optimization) is an important part of any businesse’s. If SEO is weak of any businesse’s then business will never sustain either you invest sufficient money in that business. But we have two choice of marketing, i.e. Offline and Online. Offline is more expensive and not work effectively. That’s why our expert support you SEO services. We, Megatask Technologies are a fastest growing seo company in delhi. While looking for an SEO expert you must have a certain aspect before finalizing one agency for your SEO. For instance, make sure that you look if the company you are looking forward to hiring for your SEO, is it doing white hat SEO or not. The reason behind the same is, white hat SEO is considered important for the growth of a business. Several SEO Companies make backlinks out of the box but we as SEO Consultants make sure it is all organic results. Our team of experts follows a strong Technical SEO on your website which will convert your organic traffic into leads. All that you need to know is that your business needs growth and only an SEO company can help you with organic visibility which will cost you nothing, which is quite similar to google ads.</p> </div>
+      </div>  
     </div>
   </div>
 </section>
@@ -41,7 +41,11 @@
       <div class=" col-sm-6 offset-sm-3">
         <div class="title_lead wow fadeInUp" data-wow-delay=".20s">
           <h3 class="text-center"><strong class="lead">How to Effectively Implement an SEO?</strong></h3>
-          <h2 class="text-left text-white text-center"><strong class="lead">Content Is</strong> Anything That Adds Value To The Reader’s Life</h2> </div>
+         
+        </div>
+        <div class="headseo">
+         <p class="text-left text-white text-center"><strong style="color:#f35444" class="lead1">Content Is</strong> Anything That Adds Value To The Reader’s Life</p>
+        </div>
       </div>
     </div>
     <div class="row BannerOpenGraph101">
@@ -82,7 +86,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/seo-3.gif" alt="How to Implement an SEO?"/> </p>
+            <h2 class="text-center"> <img src="<?=base_url()?>assets/images/seo-3.gif" alt="How to Implement an SEO?"/> </h2>
           </div>
         </div>
       </div>
@@ -120,9 +124,9 @@
               <div class="inner-container-tag bg-theme-red">
                 <div class="widget-wrap">
                   <div class="image-box-wrapper">
-                    <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Happy-Customers-wht.png" alt="Happy Customers" class="opacity-1"> </div>
+                    <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Happy-Customers-wht.png" alt="Happy Customers" class="opacity-1" > </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">845+</h2>
+                      <p  style="font-size:2rem"class="image-box-title">845+</p>
                       <p class="image-box-description">Happy Customers</p>
                     </div>
                   </div>
@@ -135,7 +139,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Project Done" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">378+</h2>
+                      <p style="font-size:2rem" class="image-box-title">378+</p>
                       <p class="image-box-description">Project Done</p>
                     </div>
                   </div>
@@ -150,7 +154,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Team Members" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">634+</h2>
+                      <p style="font-size:2rem"class="image-box-title">634+</p>
                       <p class="image-box-description">Team Members</p>
                     </div>
                   </div>
@@ -163,7 +167,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Global Presence" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <h2 class="image-box-title">947+</h2>
+                      <p style="font-size:2rem" class="image-box-title">947+</p>
                       <p class="image-box-description">Global Presence</p>
                     </div>
                   </div>
@@ -179,7 +183,7 @@
 <section class="pt-5 pb-5 implement-seo">
   <div class="container">
     <div class="row">
-      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="Impress Upon Search Engines" hidden class="img-rounded"/> </div>
+      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="Impress Upon Search Engines" hidden class="img-rounded" class="img-fluid"/> </div>
     </div>
     <div class="row">
       <div class=" col-sm-12 ">
@@ -199,7 +203,7 @@
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
           <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
           <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
-          <p class="text-justify wow fadeInUp">Our experts consider <strong><a href="<?php echo base_url()?>digital-marketing" style="color: #007bff;">digital marketing</a></strong> to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
+          <p class="text-justify wow fadeInUp">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
           <!--<p>Best Digital Marketing Agency In India</p>--><a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Contact Us Now</a> </div>
       </div>
       <div class=" col-sm-6" data-wow-delay=".30s">

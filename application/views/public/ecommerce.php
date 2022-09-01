@@ -27,8 +27,9 @@
 			<div class=" col-sm-6 ">
 				<div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
 					<!--<h3 class="text-left"><strong class="lead">Best E-Commerce Company</strong></h3>-->
-					<h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">E-Commerce Solutions</h1>
-					<p class="text-justify wow fadeInUp  " data-wow-delay=".25s"> Ecommerce refers to the buying and selling of products or services using the electronic systems such as the computer networks and the internet. In the present times it is very much imperative for businesses to have an ecommerce website so that they can reach out to their potential customers more effectively. At Megatask Technologies we strive hard to make sure that your online store is set up and managed in the most affable manners and at the most cost effective rates, which makes us the most sought after ">E-commerce web Development company in Delhi NCR. We <strong><a href="https://megatasktechnologies.com/ecommerce">develop ecommerce websites</a></strong> with the best features and functionality while at the same time being extremely customizable. Our professionals have already worked on numerous ecommerce projects and make it a point that while on one hand the online shopping becomes a rich exalted experience for the customers on the other hand it is easy for the businesses to manage their online stores. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote wow fadeInUp" data-wow-delay=".30s" type="submit">Contact Us</a> </div>
+					<h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">eCommerce Website Development Company Delhi
+ </h1>
+					<p class="text-justify wow fadeInUp  " data-wow-delay=".25s"> Ecommerce refers to the buying and selling of products or services using the electronic systems such as the computer networks and the internet. In the present times it is very much imperative for businesses to have an ecommerce website so that they can reach out to their potential customers more effectively. At Megatask Technologies we strive hard to make sure that your online store is set up and managed in the most affable manners and at the most cost effective rates, which makes us the most sought after E-commerce web Development company in Delhi NCR. We develop ecommerce websites with the best features and functionality while at the same time being extremely customizable. Our professionals have already worked on numerous ecommerce projects and make it a point that while on one hand the online shopping becomes a rich exalted experience for the customers on the other hand it is easy for the businesses to manage their online stores. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote wow fadeInUp" data-wow-delay=".30s" type="submit">Contact Us</a> </div>
 			</div>
 		</div>
 	</div>
@@ -123,8 +124,8 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-12 pt-4 pb-4 text-left  ">
-				<h2 class="text-dark">What makes us Special in E-Commerce Website Development</h2> </div>
-		</div>
+				<!-- <h2 class="text-dark">What makes us Special in E-Commerce Website Development</h2> </div>
+		</div> -->
 		<div class="row">
 			<div class="col-sm-12 text-left">
 				<p class="text-justify text-dark">Megatask Technologies Pvt Ltd design responsive E-Commerce stores, which brings single click experience to your users. E-Commerce stores developed by us are making the businesses grow rich and richer each day. Selling products and online payments dishes out a wonderful experience for the business owner and the end user too. fr web solution is where we craft the E-Commerce business for our clients. </p>
@@ -139,7 +140,7 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-12 pt-4 pb-4 text-left text-flow ">
-				<h2 class="text-dark">Sell and engage your audience with ZMOT </h2> </div>
+				<h3 class="text-dark">Sell and engage your audience with ZMOT </h3> </div>
 			<div class="col-sm-12 text-left">
 				<p class="text-justify text-dark">Not soon enough the zero moment of truth (ZMOT) was realized, which opened the gateway for the E-Commerce. Online stores are flooded with whopping SKUs, but not all of them register the sales. Few of online stores, where sales are likely to happen, user experience is not an enriching one.Megatask Technologies Pvt Ltd is the company that helps you to grow your business online, and make it a more relishing experience. We take care of payment gateway integration and user experience at large. E-Commerce interfaces developed by us are fool-proofed from spamming. </p>
 			</div>
