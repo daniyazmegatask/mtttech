@@ -13,7 +13,7 @@
           </div>
         
           <div class="col-sm-6 ppc-img-section text-center pt-5">
-            <img src="<?= base_url('assets/images/soft-banner.gif')?>" alt="Megatask Web Software Development" class="bounce-1" style="border-radius: 100px 100px 100px 100px;">
+            <img src="<?= base_url('assets/images/soft-banner.gif')?>" alt="Software Development" class="bounce-1" style="border-radius: 100px 100px 100px 100px;">
           </div>
         </div> 
 
@@ -29,7 +29,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/soft-code.gif" alt="software development In India" class="bounce-1" style="border-radius: 50px 50px 0px 0px;width:80%;" /> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/soft-code.gif" alt="software development in Delhi" class="bounce-1" style="border-radius: 50px 50px 0px 0px;width:80%;" /> </p>
           </div>
         </div>
       </div>
@@ -138,7 +138,7 @@
 
 
 
-      <div class=" col-sm-6 software-mockup"> <img src="<?=base_url()?>assets/images/software-development.jpg" alt="Impress Upon Search Engines" hidden class="img-rounded"/>
+      <div class=" col-sm-6 software-mockup"> <img src="<?=base_url()?>assets/images/software-development.jpg" alt="Software" hidden class="img-rounded"/>
       </div>
 
 
@@ -242,7 +242,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/logo-1.png" alt="online Softwere company in delhi " style="width: 60%;"/> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/newlogo.png" alt="online Softwere company in delhi " style="width: 60%;"/> </p>
           </div>
         </div>
       </div>

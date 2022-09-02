@@ -7,7 +7,7 @@
 						<div class="pt-5">
 							<h2 class="wordH text-center text-white"></h2> </div>
 					</div>
-					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/ff.gif" Alt="Website Redesign" class="Website Redesign"> </div>
+					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/ff.gif" Alt="Website Redesign Services" class="Website Redesign"> </div>
 				</div>
 			</div>
 		</div>
@@ -18,7 +18,7 @@
 		<div class="row BannerOpenGraph101">
 			<div class=" col-sm-6">
 				<div class="title_lead wow fadeInUp bounceLeft-101 " data-wow-delay=".20s">
-					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/UWD-web.gif')?>" class="text-center redisignimg"  alt="Creative Web Designer - Delhi Web Designer"> </div>
+					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/UWD-web.gif')?>" class="text-center redisignimg"  alt="Delhi Web Designer"> </div>
 				</div>
 			</div>
 			<div class=" col-sm-6 ">
@@ -63,7 +63,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/website-designing.gif" class="bounce-1" alt="No 1 Website Re-Designing" /> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/website-designing.gif" class="bounce-1" alt="Website Designing" /> </p>
 					</div>
 				</div>
 			</div>
@@ -119,8 +119,8 @@
 		<div class="row pt-5 pb-5">
 			<div class=" col-sm-12  ">
 				<div class="title_lead pl-4 pr-4">
-					<h3 class="text-center text-white"><strong class="lead">OUR MISSION IS                  </strong>               </h3>
-					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT                  INSPIRE TRUST AND AUTHORITY               </h4>
+					<h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
+					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT INSPIRE TRUST AND AUTHORITY</h4>
 					<p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
 				</div>
 			</div>
@@ -198,7 +198,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/web-designe2.gif" class="bounce-1" alt="Our Expert is Here to Guide You"/> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/web-designe2.gif" class="bounce-1" alt="Webdesign Gif"/> </p>
 					</div>
 				</div>
 			</div>

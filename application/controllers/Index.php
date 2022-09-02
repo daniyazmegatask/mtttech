@@ -247,11 +247,11 @@ class Index extends CI_Controller
     public function graphic_design()
     {
         $data = array();
-        $data["title"] = "#1 Graphic Design agency in Delhi | Online Graphic Design Agency";
+        $data["title"] = "Graphic Design Company in Delhi - Mega Task";
 
 
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Looking for #1 graphic design agency in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
+        $data["meta_description"] = "Looking for Graphic Design Company in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
         $data["meta_keyword"] = "graphic design agency delhi, graphic design company delhi, graphic design services in delhi, graphic design agency delhi. graphic designers";
 
 
@@ -315,10 +315,10 @@ class Index extends CI_Controller
     public function web_development()
     {
         $data = array();
-        $data["title"] = "#1 Website Development Company in Delhi, Web Development in Delhi";
+        $data["title"] = "Website Development Company in Delhi - Mega Task";
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask Technologies is one of the growing website development company in Delhi(NCR). Our expert web development team offer quality development services to our client which help them grow their web development next level.";
+        $data["meta_description"] = "Our expert website development team offer quality development services to our clients which help them grow their website development next level.";
         $data["meta_keyword"] = "website development company delhi, web development delhi, web developer, web development agency, web development services, web development in india, php development, php developer, asp developer, java developer, js developer, magento developement, ci development";
 
 
@@ -444,10 +444,11 @@ class Index extends CI_Controller
      public function web_wordpress()
     {
         $data = array();
-        $data["title"] = "Wordpress Development Company in Delhi, Wordpress Theme Development in Delhi";
+        $data["title"] = "Wordpress Development Company in Delhi - Mega Task
+        ";
 		
 		$data["meta_title"] = $data["title"];
-        $data["meta_description"] = "WordPress Development Company Delhi - Megatask Technology is growing Wordpress Website Design Company Delhi offering WordPress theme customization, plugin customization etc.";
+        $data["meta_description"] = "Shopify Website Development Company - Raising The Bar For Shopify Expertise · Get The Best Of Web With Leading Shopify Development Company Based in Delhi.";
         $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india, wordpress theme for web development company, wordpress website development company india";
 		
         $data["file"] = "public/web-wordpress";
@@ -459,7 +460,7 @@ class Index extends CI_Controller
     public function web_shopify()
     {
         $data = array();
-        $data["title"] = "Shopify Website Design Development Company in Delhi, Noida";
+        $data["title"] = "Shopify Website Development Company - Mega Tasktechnologies";
 
 
         $data["meta_title"] = $data["title"];
@@ -474,7 +475,7 @@ class Index extends CI_Controller
     public function web_wixdevelop()
     {
         $data = array();
-       $data["title"] = "wix website Development, wix website Design in Delhi";
+       $data["title"] = "WIX Website Development Services - Mega Task";
 
 
         $data["meta_title"] = $data["title"];

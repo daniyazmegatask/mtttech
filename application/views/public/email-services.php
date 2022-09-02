@@ -251,14 +251,8 @@
       <div class="row pt-5 pb-5">
          <div class=" col-sm-12  ">
             <div class="title_lead pl-4 pr-4">
-               <h2 class="text-center text-white"><strong class="lead">OUR MISSION IS
-
-                  </strong>
-
-               </h2>
-               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">How do I measure my email marketing business?
-
-               </h4>
+               <h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
+               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">How do I measure my email marketing business?</h4>
                <p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We are an email marketing agency of technology problem solvers helping our clients grow their business in a fast-paced, online world. We pride ourselves on delivering beautifully crafted digital solutions, following the right channel, message, and time. Whether you own an SMB or a large enterprise, we provide exceptional digital solutions that make your business stand apart in today’s competitive world. Contact now and let us discuss your project!</p>
             </div>
          </div>

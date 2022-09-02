@@ -23,8 +23,8 @@
 			</div>
 			<div class=" col-sm-6 ">
 				<div class="title_lead mb-5" data-wow-delay=".20s">
-					<h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Build and sell apps on Shopify</h1>
-					<p class="text-justify wow bounceInRight" data-wow-delay=".30s"> <strong><a href="https://megatasktechnologies.com/website-redesign">Set your store up for success with themes designed and built to the highest standards packed with the latest Shopify features by leading theme developers and agencies.You have complete control over your store’s design. Take a look at what some of our customers have done with their themes. There’s no limit to how far you can take your store!Shopify Experts are Shopify-approved ecommerce designers, developers and marketers who can help make your online store a huge success.</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> </div>
+					<h1 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Shopify Website Development Company</h1>
+					<p class="text-justify wow bounceInRight" data-wow-delay=".30s">Set your store up for success with themes designed and built to the highest standards packed with the latest Shopify features by leading theme developers and agencies.You have complete control over your store’s design. Take a look at what some of our customers have done with their themes. There’s no limit to how far you can take your store!Shopify Experts are Shopify-approved ecommerce designers, developers and marketers who can help make your online store a huge success. </div>
 				<div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
 					<div class="images ">
 					<span>
@@ -104,8 +104,8 @@
 		<div class="row pt-5 pb-5">
 			<div class=" col-sm-12  ">
 				<div class="title_lead pl-4 pr-4">
-					<h2 class="text-center text-white"><strong class="lead">OUR MISSION IS                  </strong>               </h2>
-					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT                  INSPIRE TRUST AND AUTHORITY               </h4>
+				    <h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
+					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT INSPIRE TRUST AND AUTHORITY</h4>
 					<p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
 				</div>
 			</div>
@@ -120,7 +120,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon1.svg" alt="Online Website Redesign In India" class="opacity-1"> </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title text-white">Who We Are?</h2>
+											<h3 class="image-box-title text-white">Who We Are?</h3>
 											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -132,7 +132,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" alt="Online Shopify Website design In India" class="opacity-1"> </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">What We Do?</h2>
+											<h3 class="image-box-title">What We Do?</h3>
 											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -146,7 +146,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon3.svg" alt="Online Shopify Design In India" class="opacity-1"> </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">Who We Help?</h2>
+											<h3 class="image-box-title">Who We Help?</h3>
 											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -158,7 +158,7 @@
 									<div class="image-box-wrapper">
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" alt="Online Shopify Website Redesign In noida" class="opacity-1"> </div>
 										<div class="image-box-content">
-											<h2 class="image-box-title">What Is Next ?</h2>
+											<h3 class="image-box-title">What Is Next ?</h3>
 											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
@@ -175,9 +175,9 @@
 		<div class="row BannerOpenGraph101">
 			<div class=" col-sm-6 ">
 				<div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-					<h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
+					<h3><strong class="lead">Our Expert is Here to Guide You</strong></h3>
 					<h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
-					<p class="text-justify wow fadeInUp">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
+					<p class="text-justify wow fadeInUp" style="font-weight:500">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
 					<a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
 			</div>
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">

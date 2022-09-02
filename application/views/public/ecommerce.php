@@ -20,7 +20,7 @@
 			<div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center"> <img class="ecommerce2" src="<?=base_url()?>assets/images/ecommerce2.png" /> </p>
+						<p class="text-center"> <img class="ecommerce2" src="<?=base_url()?>assets/images/ecommerce2.png" alt="eCommerce Sollution" /> </p>
 					</div>
 				</div>
 			</div>
@@ -81,7 +81,7 @@
 						<div role="tabpanel" class="tab-pane active col-sm-12" id="Analysis">
 							<div class=" design-process-content">
 								<h3 class="semi-bold text-white">Business Analysis</h3>
-								<p class="text-justify text-white">Building an E-Commerce store begins with business analysis, which may extend to several days. Competitive analysis is also done under it to gain an insight on market competition.</p> <img src="<?= base_url()?>assets/images/slider/analysis.jpeg" alt="online shopping website development analysis  " class="img-responsive lazy"> </div>
+								<p class="text-justify text-white">Building an E-Commerce store begins with business analysis, which may extend to several days. Competitive analysis is also done under it to gain an insight on market competition.</p> <img src="<?= base_url()?>assets/images/slider/analysis.jpeg" alt="Business Analysis" class="img-responsive lazy"> </div>
 						</div>
 						<div role="tabpanel" class="tab-pane col-sm-12" id="Sessions">
 							<div class="design-process-content">

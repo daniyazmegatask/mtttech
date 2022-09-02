@@ -8,7 +8,7 @@
 						<div class="pt-5">
 							<h2 class="wordH text-center text-white"></h2> </div>
 					</div>
-					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/responsive-banner.gif" alt="Responsive Website" class="top-banner"> </div>
+					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/responsive-banner.gif" alt="Responsive Web Design" class="top-banner"> </div>
 				</div>
 			</div>
 		</div>
@@ -19,7 +19,7 @@
 		<div class="row BannerOpenGraph101">
 			<div class=" col-sm-6 wow bounceInLeft ">
 				<div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-					<div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/responsive-2.gif')?>" class="text-center img-rounded" alt="Responsive Design"> </div>
+					<div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/responsive-2.gif')?>" class="text-center img-rounded" alt="Web Design Service"> </div>
 				</div>
 			</div>
 			<div class=" col-sm-6 ">
@@ -46,7 +46,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/responsive.gif" alt="Responsive website design in noida" class="bounce-1" /> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/responsive.gif" alt="Web Design Gif" class="bounce-1" /> </p>
 					</div>
 				</div>
 			</div>
@@ -65,7 +65,7 @@
 	<div class="container bg-dark pt-5 pb-5 border-rounded">
 		<div class="row">
 			<div class=" col-sm-6">
-				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Responsive Website Design for mackbook"> </div>
+				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Mackbook"> </div>
 			</div>
 			<div class="text-center col-sm-6">
 				<button class="btn btn-megatask text-white">FEATURED CASE STUDIES</button>
@@ -162,7 +162,7 @@
 			<div class="col-sm-6">
 				<div class="row  wow rotateInUpRight " data-wow-delay=".30s">
 					<div class="col-sm-4">
-						<div class="detial-design"> <img src="<?=base_url()?>assets/images/icon/detail6-white.jpg" alt="Responsive Website Design agency " > </div>
+						<div class="detial-design"> <img src="<?=base_url()?>assets/images/icon/detail6-white.jpg" alt="Responsive Website Design " > </div>
 					</div>
 					<div class="col-sm-8">
 						<h2>Custom Look and Feel</h2>
@@ -178,7 +178,7 @@
 		<div class="row pt-5 pb-5">
 			<div class=" col-sm-12  ">
 				<div class="title_lead pl-4 pr-4">
-					<h2 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h2>
+				    <h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
 					<h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT                  INSPIRE TRUST AND AUTHORITY               </h4>
 					<p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
 				</div>
@@ -257,7 +257,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/responsive3.gif" alt="Responsive Website Design company in india "   class="bounce-1" /> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/responsive3.gif" alt="Website Design Services in Delhi "   class="bounce-1" /> </p>
 					</div>
 				</div>
 			</div>

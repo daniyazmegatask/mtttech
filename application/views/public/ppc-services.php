@@ -214,16 +214,8 @@
       <div class="row pt-5 pb-5">
          <div class=" col-sm-12  ">
             <div class="title_lead pl-4 pr-4">
-               <h2 class="text-center text-white"><strong class="lead">OUR MISSION IS
-
-                  </strong>
-
-               </h2>
-               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT
-
-                  INSPIRE TRUST AND AUTHORITY
-
-               </h4>
+               <h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
+               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT  INSPIRE TRUST AND AUTHORITY</h4>
                <p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
             </div>
          </div>

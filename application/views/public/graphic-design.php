@@ -27,7 +27,7 @@
                <!--<h3 class="text-left  wow fadeInLeft " data-wow-delay=".20s" ><strong class="lead">Best Graphic Design Agency</strong></h3>-->
                <h2 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">From A Creative Graphic Design Company</h2>
                <p class="text-dark  text-justify wow bounceInRight" data-wow-delay=".40s">Whether it is a website, business or brand, all are nothing without creativity and art! Graphic design is an integral part of any small, medium or large business willing to establish an online presence of their brand. And that’s where Pixlogix plays a vital role through its affordable graphic design services.</p>
-               <p class="text-dark  text-justify wow bounceInRight pt-0" data-wow-delay=".40s">With the help of our in-house professional graphic designer in India, we bring bespoke and aesthetically appealing <strong><a href="https://megatasktechnologies.com/graphic-design">graphic designs</a></strong> for our clients. Unlike many other graphic design companies, each and every design from Pixlogix will reflect your brand and convey your message in a most impactful manner.</p>
+               <p class="text-dark  text-justify wow bounceInRight pt-0" data-wow-delay=".40s">With the help of our in-house professional graphic designer in India, we bring bespoke and aesthetically appealing graphic designs for our clients. Unlike many other graphic design companies, each and every design from Pixlogix will reflect your brand and convey your message in a most impactful manner.</p>
             </div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
                <div class="images "> <span>
@@ -53,7 +53,7 @@
    <div class="container">
       <div class="row">
          <div class="text-center col-sm-12">
-            <h2 class="leter-space-3 text-white">Make Your Business Online &  Effective On Users.</h2>
+            <h3 class="leter-space-3 text-white">Make Your Business Online &  Effective On Users.</h3>
             <p class="text-white">Find the best solutions for your business! We are the leading <strong><a href="https://megatasktechnologies.com/" style="color:white">Web designing company</a></strong> that matches all your requirement What You Want. </p>
          </div>
       </div>
@@ -178,16 +178,8 @@
       <div class="row pt-5 pb-5">
          <div class=" col-sm-12  ">
             <div class="title_lead pl-4 pr-4">
-               <h2 class="text-center text-white"><strong class="lead">OUR MISSION IS
-
-                  </strong>
-
-               </h2>
-               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT
-
-                  INSPIRE TRUST AND AUTHORITY
-
-               </h4>
+                <h3 class="text-center text-white"><strong class="lead">OUR MISSION IS</strong></h3>
+               <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">TO TELL STORIES THAT INSPIRE TRUST AND AUTHORITY </h4>
                <p class="text-center text-white wow fadeInUp  " data-wow-delay=".25s">We’re a place to learn, thrive and grow.</p>
             </div>
          </div>
@@ -202,7 +194,7 @@
                            <div class="image-box-wrapper">
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon1.svg" class="opacity-1"  alt="Graphic Design agency in delhi"> </div>
                               <div class="image-box-content">
-                                 <h2 class="image-box-title text-white">Who We Are?</h2>
+                                 <h3 class="image-box-title text-white">Who We Are?</h3>
                                  <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
@@ -216,7 +208,7 @@
                            <div class="image-box-wrapper">
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg"  alt="Graphic Design company in delhi" class="opacity-1"> </div>
                               <div class="image-box-content">
-                                 <h2 class="image-box-title">What We Do?</h2>
+                                 <h3 class="image-box-title">What We Do?</h3>
                                  <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
@@ -232,7 +224,7 @@
                            <div class="image-box-wrapper">
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon3.svg" class="opacity-1"  alt="Graphic Design agency"> </div>
                               <div class="image-box-content">
-                                 <h2 class="image-box-title">Who We Help?</h2>
+                                 <h3 class="image-box-title">Who We Help?</h3>
                                  <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
@@ -246,7 +238,7 @@
                            <div class="image-box-wrapper">
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" class="opacity-1"  alt="Graphic Design Company"> </div>
                               <div class="image-box-content">
-                                 <h2 class="image-box-title">What Is Next ?</h2>
+                                 <h3 class="image-box-title">What Is Next ?</h3>
                                  <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
@@ -265,7 +257,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 ">
             <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-               <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
+               <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>Our Expert is Here to Guide You</strong> </p>
                <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Hire Graphic Designer And Improve Your Brand</h3>
                <p class="text-justify wow fadeInUp" >Want to get help from someone to handle your day-to-day graphic design needs? Hire graphic designers in India from Megatask Technologies who will fill the gap of creative experts to boost your marketing and branding strategies. Our designers will help you get the right look and feel for your brand</p>
                <!--<p>Best Graphic Design Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Contact Now</a> </div>
