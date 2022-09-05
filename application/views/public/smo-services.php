@@ -22,7 +22,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/smo-2.gif" alt="Why Search Media Optimization is a Great Investment" class="bounce-1"/> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/smo-2.gif" alt="SMO gif" class="bounce-1"/> </p>
           </div>
         </div>
       </div>
@@ -100,7 +100,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/smo-4.jpg" alt="An SMO Company That Gets It"/> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/smo-4.jpg" alt="SMO Services In Delhi"/> </p>
           </div>
         </div>
       </div>

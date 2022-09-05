@@ -232,7 +232,7 @@
         <div class="title_lead pl-4 pr-4">
           <h2 class="text-left "><strong class="lead">WHAT IS SOFTWARE DEVELOPMENT?</strong></h2>
           <h3 class="text-left  wow fadeInUp" data-wow-delay=".20s">What Makes Us A Worthy Company For Software Developmet?</h3>
-          <p class="text-left  wow fadeInUp  " data-wow-delay=".25s">At <strong><a href="https://megatasktechnologies.com/">Megatask Web</a></strong>, our team specifically deploys tools like .NET, C#, ASP.NET, WPF, WCF, SQL Server, SSRS, Python & other latest technologies for our software development processes.</p>
+          <p class="text-left  wow fadeInUp  " data-wow-delay=".25s">At <strong class="homeheading"><a href="https://megatasktechnologies.com/">Megatask Web</a></strong>, our team specifically deploys tools like .NET, C#, ASP.NET, WPF, WCF, SQL Server, SSRS, Python & other latest technologies for our software development processes.</p>
           <p class="text-left  wow fadeInUp  " data-wow-delay=".25s">Software is a type of program, which enables an adherent to put on some specific task bearing in mind peripheral devices as regards a computer system, Android phones, iPad, etc. It acts as a mediator between computer hardware and users. No software can design and manage seamlessly without the interference of software designers.</p>
         </div>
       </div>

@@ -7,7 +7,7 @@
 						<div class="pt-5">
 							<h2 class="wordH text-center text-white"></h2> </div>
 					</div>
-					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/wix.png" alt="Website Redesign in india" class="Website Redesign"> </div>
+					<div class="col-sm-6 ecom-img-section text-center"> <img src="<?= base_url()?>assets/images/wix.png" alt=" Wix Website Development" class="Website Redesign"> </div>
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center "> <img src="<?=base_url()?>assets/images/wix1.png" class="bounce-1" alt="wix Website Redesign company in india" /> </p>
+						<p class="text-center "> <img src="<?=base_url()?>assets/images/wix1.png" class="bounce-1" alt="wix Webdesign Services" /> </p>
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 		<div class="row BannerOpenGraph101">
 			<div class=" col-sm-6">
 				<div class="title_lead wow fadeInUp bounceLeft-101 " data-wow-delay=".20s">
-					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/wix2.png')?>" class="text-center mt-5 " alt="Creative Web Designer - Delhi Web Designer"> </div>
+					<div class="something-imagin-bg"> <img src="<?= base_url('assets/images/wix2.png')?>" class="text-center mt-5 " alt="Wix Website gif"> </div>
 				</div>
 			</div>
 			<div class=" col-sm-6 ">
@@ -77,7 +77,7 @@
 	<div class="container bg-dark pt-5 pb-5 border-rounded">
 		<div class="row">
 			<div class=" col-sm-6">
-				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="online wix Website design agency in india" > </div>
+				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="wix Website Design Services" > </div>
 			</div>
 			<div class="text-center col-sm-6">
 				<button class="btn btn-megatask text-white">FEATURED CASE STUDIES</button>
@@ -123,7 +123,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/web-designe2.gif" class="bounce-1" alt="Our Expert is Here to Guide You"/> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/web-designe2.gif" class="bounce-1" alt="Wix Website"/> </p>
 					</div>
 				</div>
 			</div>

@@ -19,7 +19,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/maintenance4.gif')?>" alt="Web Development Service" class="text-center img-rounded" > </div>
+               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/maintenance4.gif')?>" alt="Website Development Services" class="text-center img-rounded" > </div>
             </div>
          </div>
          <div class=" col-sm-6 ">
@@ -60,7 +60,7 @@
    <div class="container bg-dark pt-5 pb-5 border-rounded">
       <div class="row">
          <div class=" col-sm-6">
-            <div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Web  Development In delhi"> </div>
+            <div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Website  Development In delhi"> </div>
          </div>
          <div class="text-center col-sm-6">
             <button class="btn btn-megatask text-white">TECHNOLOGY EXPERTISE</button>
@@ -101,7 +101,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/maintanance.gif" alt="web development In noida" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/maintanance.gif" alt="website development Company" class="bounce-1" /> </p>
                </div>
             </div>
          </div>
@@ -122,7 +122,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center "> <img src="<?=base_url()?>assets/images/web_dev.gif" alt="Your Business Is Our Responsibility" class="bounce-1" /> </p>
+                  <p class="text-center "> <img src="<?=base_url()?>assets/images/web_dev.gif" alt="Website design gif" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

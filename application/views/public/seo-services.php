@@ -22,7 +22,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/giphy-4.gif" alt="Best SEO Marketing Agency In India" class="bounce-1 img" /> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/giphy-4.gif" alt="SEO Services" class="bounce-1 img" /> </p>
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <h2 class="text-center"> <img src="<?=base_url()?>assets/images/seo-3.gif" alt="How to Implement an SEO?"/> </h2>
+            <h2 class="text-center"> <img src="<?=base_url()?>assets/images/seo-3.gif" alt="SEO gif"/> </h2>
           </div>
         </div>
       </div>
@@ -183,7 +183,7 @@
 <section class="pt-5 pb-5 implement-seo">
   <div class="container">
     <div class="row">
-      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="Impress Upon Search Engines" hidden class="img-rounded" class="img-fluid"/> </div>
+      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="SEO Analyze" hidden class="img-rounded" class="img-fluid"/> </div>
     </div>
     <div class="row">
       <div class=" col-sm-12 ">
@@ -207,7 +207,7 @@
           <!--<p>Best Digital Marketing Agency In India</p>--><a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Contact Us Now</a> </div>
       </div>
       <div class=" col-sm-6" data-wow-delay=".30s">
-        <div class="ecom-img-section"> <img src="<?= base_url()?>assets/images/seo-1.gif" alt="Your Business Is Our Responsibility" class="img-rounded lazy"> </div>
+        <div class="ecom-img-section"> <img src="<?= base_url()?>assets/images/seo-1.gif" alt="Search Engine Optimization" class="img-rounded lazy"> </div>
       </div>
     </div>
   </div>

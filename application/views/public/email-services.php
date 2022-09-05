@@ -114,8 +114,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/email-marketing.gif" alt="What are the 4 types of email marketing?
-" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/email-marketing.gif" alt="Email Marketing Agencies" class="bounce-1" /> </p>
                </div>
             </div>
          </div>
@@ -135,8 +134,7 @@
    <div class="container bg-dark pt-5 pb-5 border-rounded">
       <div class="row">
          <div class=" col-sm-6">
-            <div class="ppc-img-container ZoomIn-101"> <img src="<?=base_url()?>assets/images/email_marketing.jpg" alt="What are the 3 types of email marketing?
-"> </div>
+            <div class="ppc-img-container ZoomIn-101"> <img src="<?=base_url()?>assets/images/email_marketing.jpg" alt="Email Marketing In India"> </div>
          </div>
          <div class="text-center col-sm-6">
             <!--  <button class="btn btn-megatask text-white">LEARN ABOUT THE DIFFERENT TYPES OF PPC ADS</button> -->
@@ -341,7 +339,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Magic mail! [GIF].gif" alt="Magic Mail" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Magic mail! [GIF].gif" alt="Email Marketing gif" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

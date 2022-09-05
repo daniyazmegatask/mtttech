@@ -51,7 +51,7 @@
 	<div class="container bg-dark pt-5 pb-5 border-rounded">
 		<div class="row">
 			<div class=" col-sm-6">
-				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Website Maintenance Service agency in delhi" > </div>
+				<div class="mac-img-container ZoomIn-101 "> <img src="<?=base_url()?>assets/images/mac.png" alt="Website Maintenance Services agency in delhi" > </div>
 			</div>
 			<div class="text-center col-sm-6">
 				<button class="btn btn-megatask text-white">FEATURED CASE STUDIES</button>
@@ -95,7 +95,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/maintanance.gif" alt="Before Website Maintenance" class="bounce-1" /> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/maintanance.gif" alt="Website Maintenance" class="bounce-1" /> </p>
 					</div>
 				</div>
 			</div>
@@ -186,7 +186,7 @@
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
 					<div class="fly-image">
-						<p class="text-center  "> <img src="<?=base_url()?>assets/images/maintinance1.gif" alt="ur Expert is Here to Guide You" class="bounce-1" /> </p>
+						<p class="text-center  "> <img src="<?=base_url()?>assets/images/maintinance1.gif" alt="Website Maintenance Gif" class="bounce-1" /> </p>
 					</div>
 				</div>
 			</div>

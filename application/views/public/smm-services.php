@@ -21,7 +21,7 @@
          <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center"> <img src="<?=base_url()?>assets/images/smm-1.gif" alt="Social Media Marketing" /> </p>
+                  <p class="text-center"> <img src="<?=base_url()?>assets/images/smm-1.gif" alt="SMM Services" /> </p>
                </div>
             </div>
          </div>

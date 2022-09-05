@@ -19,7 +19,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img class="text-center ppc " src="<?=base_url()?>assets/images/ppc-1.gif" alt="What Is Pay Per Click and How Does It Work?" class="" />
+               <div class="something-imagin-bg mt-5 "> <img class="text-center ppc " src="<?=base_url()?>assets/images/ppc-1.gif" alt="PPC Services In Delhi" class="" />
                   <!-- <img src="<?= base_url('assets/images/ppc-1.gif')?>" class="text-center pull-right "  style="width:100%"  > --></div>
             </div>
          </div>
@@ -79,7 +79,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/ppc-3.gif" alt="Make Your Business Online &  Effective On Users." class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/ppc-3.gif" alt="What Is PPC?" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

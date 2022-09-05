@@ -24,11 +24,11 @@ class Index extends CI_Controller
     {
 		// change date 24-06-2022 not change befor till 2 month
         $data = array();
-        $data["title"] = "Website Designing Company in Delhi, Web Design Company in Delhi";
+        $data["title"] = "Website Design Company in Delhi - Megatask Technologies";
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We Megatask are the fastest-growing website designing company in Delhi, India that offers an extended array of services for grow your buisness faster.";     
-        $data["meta_keyword"] = "Website Designing, Web Designig, website design company in delhi, web designing company in delhi, web design company, website design agency in delhi, web designing in noida, megatask technologies, web design in gurgaon";
+        $data["meta_description"] = "We Megatask Technologies are the fastest-growing Website Design Company in Delhi. That offers an extended array of services for grow your buisness faster.";     
+        $data["meta_keyword"] = "Website Design Company in Delhi, Web Designig, website design company in delhi, web designing company in delhi, web design company, website design agency in delhi.";
 
 
         $data["file"] = "public/index";
@@ -75,12 +75,13 @@ class Index extends CI_Controller
     public function ecommerce()
     {
         $data = array();
-        $data["title"] = "eCommerce Website Development Company Delhi - Megatask";
+        $data["title"] = "eCommerce Website Development Company in India
+        ";
 
 
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are E-commerce website Development Company in Delhi, India that gives you best Services for best dynamic and responsive online store.";
-        $data["meta_keyword"] = "ecommerce website development company in delhi, ecommerce website design company , ecommerce web development services, ecommerce web development delhi, e-commerce website delhi";
+        $data["meta_description"] = "We are E-commerce website Development Company in India that gives you best Services for best dynamic and responsive online store.";
+        $data["meta_keyword"] = "ecommerce website development company in india, ecommerce website design company , ecommerce web development services, ecommerce web development delhi, e-commerce website india";
 
 
 
@@ -264,12 +265,12 @@ class Index extends CI_Controller
     public function website_redesign()
     {
         $data = array();
-        $data["title"] = "Website Redesign Services in Delhi - Megatask";
+        $data["title"] = "Website Redesign Company - Megatask Technologies";
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask is Website Redesign Company in Delhi India. Our Website Redesigning Services enhance your web visibility or look and feel to give your user a good impression toward your website";
-        $data["meta_keyword"] = "web redesign services delhi, website redesign company delhi, website redesign services india, website redesign agency delhi";
+        $data["meta_description"] = "Website Redesign Company in India. Our Website Redesigning Services enhance your web visibility or look and feel to give your user a good impression.";
+        $data["meta_keyword"] = "Website Redesign Company, website redesign services india, website redesign agency delhi";
 
 
         $data["file"] = "public/website-redesign";
@@ -448,7 +449,7 @@ class Index extends CI_Controller
         ";
 		
 		$data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Shopify Website Development Company - Raising The Bar For Shopify Expertise · Get The Best Of Web With Leading Shopify Development Company Based in Delhi.";
+        $data["meta_description"] = "Wordpress Development Company in Delhi - Megatask Technology is growing Wordpress Website Design Company offering theme customization, plugin customization etc.";
         $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india, wordpress theme for web development company, wordpress website development company india";
 		
         $data["file"] = "public/web-wordpress";
@@ -464,7 +465,7 @@ class Index extends CI_Controller
 
 
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "looking for a Shopify Developer or a Shopify development Agency in Delhi. As Shopify developer our pool of Experts take care of your shopify ecommerce online store.";
+        $data["meta_description"] = "Shopify Website Development Company - Raising The Bar For Shopify Expertise · Get The Best Of Web With Leading Shopify Development Company Based in Delhi.";
         $data["meta_keyword"] = "shopify development company delhi, shopify development services, shopify development agency, top shopify development companies in delhi, shopify developer near me, best shopify developers, shopify experts in delhi";
 		
         $data["file"] = "public/web-shopify";
@@ -503,7 +504,7 @@ class Index extends CI_Controller
         $data["title"] = "Software Development Company in Delhi - Megatask";
 		
 		$data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask Technologies is #1 Software development agency in Delhi, NCR. We assist you with professional software development services in Delhi.";
+        $data["meta_description"] = " Megatask Technologies is a Software Development Company in Delhi. We assist you with professional scalable software solutions for enterprises and startups.";
         $data["meta_keyword"] = "software application development company, software development company in delhi, software development company in delhi, software developer company in delhi, software development company delhi, top software development company in delhi, best software development company in delhi, software development services in delhi, best software development company in delhi ncr, software development company in delhi ncr, software development in noida, software development company in gurgaon, custom software development company";
 		
         $data["file"] = "public/software-development";

@@ -19,7 +19,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/Laptop.gif')?>" alt="Best Website Marketing Agency" class="text-center img-rounded"> </div>
+               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/Laptop.gif')?>" alt="Google Analytics Services" class="text-center img-rounded"> </div>
             </div>
          </div>
          <div class=" col-sm-6 ">
@@ -126,7 +126,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/google-1.gif" alt="analytics google service" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/google-1.gif" alt="Google Analytics Consulting" class="bounce-1" /> </p>
                </div>
             </div>
          </div>
@@ -225,7 +225,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/video.gif" alt="Your Business Is Our Responsibility" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/video.gif" alt="Google Analytics gif" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

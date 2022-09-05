@@ -19,7 +19,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-md-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right semservice" src="<?=base_url()?>assets/images/sem-1.gif" class="bounce-1" alt="online SEM Services in delhi" /> </div>
+               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right semservice" src="<?=base_url()?>assets/images/sem-1.gif" class="bounce-1" alt="SEM Services" /> </div>
             </div>
          </div>
          <div class=" col-md-6 ">
@@ -34,7 +34,7 @@
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
                <div class="content text-justify text-dark">
                   <p>Anyone with a website can leverage search engines to promote their products and services and connect with key stakeholders. You have most likely learned about search engines in your search engine optimization (SEO) strategies, but you may not be familiar with their role in search engine marketing.</p>
-                  <p> Ready to start your SEM advertising campaign? Our <strong><a href="https://megatasktechnologies.com/sem-services">search engine marketing agency</a></strong> explains the significance of search engines in SEM and how your business can use them to speed up your customers’ buying process. Learn more about search engine advertising and improve your marketing effectiveness in no time!</p>
+                  <p> Ready to start your SEM advertising campaign? Our search engine marketing agency explains the significance of search engines in SEM and how your business can use them to speed up your customers’ buying process. Learn more about search engine advertising and improve your marketing effectiveness in no time!</p>
                </div>
             </div>
          </div>
@@ -71,7 +71,7 @@
          <div class=" col-md-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/seo-4.gif" alt="Need help?" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/seo-4.gif" alt="What is SEM?" class="bounce-1" /> </p>
                </div>
             </div>
          </div>
@@ -130,7 +130,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-md-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img class="text-center" src="<?=base_url()?>assets/images/sem-work-image-img.svg" alt="How Does SEM Work?" class="bounce-1 img-rounded" /> </div>
+               <div class="something-imagin-bg mt-5 "> <img class="text-center" src="<?=base_url()?>assets/images/sem-work-image-img.svg" alt="Search Engine Marketing Process" class="bounce-1 img-rounded" /> </div>
             </div>
          </div>
          <div class=" col-md-6 ">
@@ -340,7 +340,7 @@
          <div class=" col-md-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Human magnet MG animation.gif" alt="Our Expert is Here to Guide You" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Human magnet MG animation.gif" alt="Search Engine Marketing" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

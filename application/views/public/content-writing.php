@@ -22,7 +22,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-1.jpg" alt="What Is Content Writing And How Content Gets Audience" class="bounce-1"/> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-1.jpg" alt="Content Writing Services" class="bounce-1"/> </p>
           </div>
         </div>
       </div>
@@ -100,7 +100,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image pt-5">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-1.png" alt="How to Implement an SEO?" class="bounce-1"/> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-1.png" alt="Content Writing Agencies" class="bounce-1"/> </p>
           </div>
         </div>
       </div>
@@ -220,7 +220,7 @@
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
-            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-3.gif" alt="our Business Is Our Responsibility" class="bounce-1" /> </p>
+            <p class="text-center"> <img src="<?=base_url()?>assets/images/content-3.gif" alt="Content Marketing gif" class="bounce-1" /> </p>
           </div>
         </div>
       </div>

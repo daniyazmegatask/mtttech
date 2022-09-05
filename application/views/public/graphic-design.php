@@ -19,7 +19,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/gra-1.gif')?>" alt="From A Creative Graphic Design Company" class="text-center img-rounded"> </div>
+               <div class="something-imagin-bg mt-5 "> <img src="<?= base_url('assets/images/gra-1.gif')?>" alt="Graphic Design Company" class="text-center img-rounded"> </div>
             </div>
          </div>
          <div class=" col-sm-6 ">
@@ -265,7 +265,7 @@
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/gra-2.gif" class="bounce-1"  alt="Best Graphic Design agency"/> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/gra-2.gif" class="bounce-1"  alt="Graphic Design gif"/> </p>
                </div>
             </div>
          </div>
