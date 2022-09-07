@@ -20,7 +20,6 @@
       <div class=" col-sm-12">
         <div class="title_lead pl-4 pr-4">
           <h1 class="text-center text-white">
-Anjali
                 <strong class="lead">Our Creative Team</strong>
 
                </h1>
@@ -70,25 +69,25 @@ Anjali
     <div class="row">
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
-                <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/team-1.jpg" alt="Anil Kumar Maurya">
-                </div>
-                <div class="team-content">
+                  <div class="pic">
+                  <img src="<?= base_url()?>assets/images/team/Muzzamil.jpg" alt="Muzammil Abbas ">
+                </div> 
+                 <div class="team-content">
                     <div class="team-info">
-                        <h3 class="title">Anil Kumar Maurya</h3>
-                        <span class="post"><kbd><kbd>Sr Developer</kbd></kbd></span>
+                    <h3 class="title">Muzammil Abbas</h3>
+                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
                     </div>
-                </div>
+                </div> 
             </div>
         </div> 
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/team-2.jpg" alt="Muzammil Abbas ">
+                    <img src="<?= base_url()?>assets/images/team/Daniyaz.jpg" alt="Mohd Daniyaz Ali ">
                 </div>
                 <div class="team-content">
                     <div class="team-info">
-                        <h3 class="title">Muzammil Abbas</h3>
+                        <h3 class="title">Mohd Daniyaz Ali</h3>
                         <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
                     </div>
                 </div>
@@ -120,6 +119,19 @@ Anjali
                 </div>
             </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/Deepak.jpg" alt="Deepak Kumar Maurya">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Deepak Kumar Maurya</h3>
+                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="row ">
@@ -129,21 +141,71 @@ Anjali
       </div>
     </div>
     <!--Team Row Starts-->
-    <div class="row">		<div class="col-md-3 col-sm-6">            <div class="our-team">                <div class="pic">                    <img src="<?= base_url()?>assets/images/team/team-4.jpg" alt="Samad Idirisi">                </div>                <div class="team-content">                    <div class="team-info">                        <h3 class="title">Samad Idrisi</h3>                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>                    </div>                </div>            </div>        </div>		
+    <div class="row">		<div class="col-md-3 col-sm-6">     
+      <div class="our-team">                
+        <div class="pic">                    
+          <img src="<?= base_url()?>assets/images/team/team-4.jpg" alt="Amit Kumar">               
+         </div>                
+         <div class="team-content">                    
+           <div class="team-info">                        
+             <h3 class="title">Amit Kumar</h3>                        
+             <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>                    
+            </div>                
+          </div>            
+        </div>        
+      </div>		
        <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/6.jpg" alt="Arshad">
+                    <img src="<?= base_url()?>assets/images/team/6.jpg" alt="Mohd Shoaib">
                 </div>
                 <div class="team-content">
                     <div class="team-info">
-                        <h3 class="title">Arshad Ali</h3>
+                        <h3 class="title">Mohd Shoaib</h3>
+                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/Ashu Kumar.jpg" alt="Ashu Kumar">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Ashu Kumar</h3>
+                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/Hasan.jpg" alt="Hasan Raza">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Hasan Raza</h3>
+                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/irfan.jpg" alt="Bakaullah">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Bakaullah</h3>
                         <span class="post"><kbd><kbd>Digital Marketing Expert</kbd></kbd></span>
                     </div>
                 </div>
             </div>
-        </div> 
-        
+        </div>  
     </div>
 
     <div class="row ">
@@ -157,7 +219,7 @@ Anjali
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/3.jpg" alt="Firoz">
+                    <img src="<?= base_url()?>assets/images/team/3.jpg" alt="Firoz Abbas">
                 </div>
                 <div class="team-content">
                     <div class="team-info">
@@ -180,8 +242,20 @@ Anjali
                 </div>
             </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/Ashu Kumar.jpg" alt="Ashu Kumar">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                    <h3 class="title">Ashu Kumar</h3>
+                        <span class="post"><kbd><kbd>Graphics Designer</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-
     <!--Team Row Starts-->
   </div>
 </section>

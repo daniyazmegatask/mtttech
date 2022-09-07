@@ -5118,3 +5118,23 @@ strong.homeheading {
   font-size: 18px !important;
   font-weight: 700 !important;
 }
+.ecommercebanner ul {
+  list-style: none;
+  color: blackk;
+  font-weight: 600;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.ecommercebanner ul li {
+  padding: 3px;
+ 
+}
+.ecommercebanner ul :hover {
+  color: red;
+  cursor: pointer;
+}
+
+
+
+
+
+

@@ -62,7 +62,7 @@
             </li>
             <li class="nav-item dropdown">
                <a class="nav-link dropdown-toggle build-nav nav-link-line" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Web Development Services
+              Web Development 
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item nav-link-line" href="<?php echo base_url();?>ecommerce">Ecommerce Website </a>
@@ -78,7 +78,7 @@
             </li>
             <li class="nav-item dropdown">
                <a class="nav-link dropdown-toggle build-nav nav-link-line" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Digital Marketing Services
+              Digital Marketing 
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <!-- <a class="dropdown-item nav-link-line" href="<?php echo base_url();?>digital_marketing">Digital Marketing</a> -->
