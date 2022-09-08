@@ -36,6 +36,10 @@
       <a class="navbar-brand mr-md-auto" href="<?php echo base_url();?>">
       <img src="<?php echo base_url();?>assets/images/logo.png"  class="img-fluid" alt="logo">
       </a>
+      <!-- <div></div>
+      <a class="navbar-branddubai.mr-md-auto" href="<?php echo base_url();?>">
+         <img src="https://cdn-icons-png.flaticon.com/512/299/299797.png"  title="united arab emirates icons">
+      </a> -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa fa-bars" aria-hidden="true"></i>
 
@@ -95,6 +99,17 @@
             <li class="nav-item">
                <a class="nav-link build-nav nav-link-line" href="<?php echo base_url();?>blog">Blog</a>
             </li>
+            <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle build-nav nav-link-line" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Country
+               </a>
+               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item nav-link-line" href="<?=base_url()?>contact-us"><i class="flag-icon flag-icon-in"></i>India</a>
+                  <a class="dropdown-item nav-link-line" href="<?=base_url()?>contact-us"><i class="flag-icon flag-icon-ae"></i>Dubai</a>
+                  <a class="dropdown-item nav-link-line" href="<?=base_url()?>contact-us"><i class="flag-icon flag-icon-us"></i>USA</a>
+               </div>
+            </li>
+
          </ul>
          <a href="<?php echo base_url();?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">Grab Now</a>
       </div>
@@ -134,5 +149,54 @@ function myFunction() {
   } else {
     header.classList.remove("sticky");
   }
+}
+
+
+
+
+
+if ($(".dropdown").length) {
+    $(document).on("click", ".dropdown-menu .dropdown-item", function (e) {
+        e.preventDefault();
+        if (!$(this).hasClass("active")) {
+            var swalWithBootstrapButtons = Swal.mixin({
+                customClass: {
+                    confirmButton: "btn btn-primary",
+                    cancelButton: "btn btn-danger me-3",
+                },
+                buttonsStyling: false,
+            });
+            swalWithBootstrapButtons
+                .fire({
+                    title: "Are you sure?",
+                    text: "Do you really want to change your current language!",
+                    icon: "warning",
+                    confirmButtonText: "<i class='fas fa-check-circle me-1'></i> Yes, I am!",
+                    cancelButtonText: "<i class='fas fa-times-circle me-1'></i> No, I'm Not",
+                    showCancelButton: true,
+                    reverseButtons: true,
+                    focusConfirm: true,
+                })
+                .then((result) => {
+                    if (result.isConfirmed) {
+                        if (!$(this).hasClass("active")) {
+                            $(".dropdown-menu .dropdown-item").removeClass("active");
+                            $(this).addClass("active");
+                            $(this)
+                                .parents(".dropdown")
+                                .find(".btn")
+                                .html("<span class='flag-icon flag-icon-us me-1'></span>" + $(this).text());
+                        }
+                        Swal.fire({
+                            icon: "success",
+                            title: "Amazing!",
+                            text: "Your current language has been changed successfully.",
+                            showConfirmButton: false,
+                            timer: 1500,
+                        });
+                    }
+                });
+        }
+    });
 }
 </script>

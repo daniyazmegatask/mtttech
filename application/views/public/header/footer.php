@@ -6,56 +6,51 @@
 <div class="elfsight-app-cbb444e6-fde8-4468-9d69-5ee9a6815490"></div> -->
 <!-- End Here-->
 <section class="vc-footer-bg">
-  <div class="container">
+  <div class="container-fluid">
     <!-- <div style="position: absolute;left: 68px;margin-top: 350px;"> <a href="https://wa.me/9871652511" class="fixBtnWhatsapp" target="_blank">
           <img src="<?php echo base_url()?>assets/images/whatsapp.png" style="width: 50px;" alt="whatsapp">
         </a> </div> -->
     <div class="row pt-5">
-      <div class="col-md-4">
+      <div class="col-md-3">
          <ul class="list-style Service-li text-white">
-          <p class="modify-head pb-4 mb-4"><strong>About</strong></p>
+          <p class="modify-head pb-4 mb-4"><strong>About Company</strong></p>
           <p class="footer-text wow bounceInUp ">
-            <i class="fa fa-map-signs" aria-hidden="true"></i> 
+            <p>
+              Megatask Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and Digital Marketing Services for the enterprise.
+            </p>
+            <!-- <i class="fa fa-map-signs" aria-hidden="true"></i> 
             OFFICE (INDIA )   
                <br>D-21 (Second Floor) Lane No.3, 
               <br>Abul Fazal Enclave-Part 1, 
               <br>Jamia Nagar, New Delhi-110025
-            </p>
+            </p> -->
 
-          <li class="dd_footer  wow bounceInUp"> <a href="tel:01142032023"><i class="fa fa-phone-square" aria-hidden="true"></i> 011 42032023</a></li>
+          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:01142032023"><i class="fa fa-phone-square" aria-hidden="true"></i> 011 42032023</a></li>
           <li class="dd_footer  wow bounceInUp"> <a href="tel:9871652511"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9871652511</a></li>
-		  <li class="dd_footer  wow bounceInUp"> <a href="tel:+919990185786"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9990185786</a></li>
+		  <li class="dd_footer  wow bounceInUp"> <a href="tel:+919990185786"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9990185786</a></li> -->
 		  
 
-          <hr style="border-top: 1px solid #fff;">
+          <!-- <hr style="border-top: 1px solid #fff;">
           <p class="footer-text wow bounceInUp ">
             <i class="fa fa-map-signs" aria-hidden="true"></i> 
             OFFICE (Dubai )  
             <br>The exchange tower,
               <br>Business Bay, Dubai
-            </p>
+            </p> -->
              
-          <li class="dd_footer  wow bounceInUp"> <a href="tel:+971545871570"><i class="fa fa-phone-square" aria-hidden="true"></i> (+971)-54-587-1570</a></li>
+          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:+971545871570"><i class="fa fa-phone-square" aria-hidden="true"></i> (+971)-54-587-1570</a></li>
           <hr style="border-top: 1px solid #fff;">
           <li class="dd_footer  wow bounceInUp">
             <a href="mailto:info@megatasktechnologies.com"> <i class="fa fa-envelope" aria-hidden="true"></i> info@megatasktechnologies.com</a>
           </li>
           <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span> </li>
-        </ul>
-            <ul class="foother-social wow bounceInUp">              
-               <li class="facebook"><a href="https://www.facebook.com/MegaTaskTechnology" target="_blank" class="social_link"><i class="fa social_dot fa-facebook-official" aria-hidden="true"></i></a></li>
-               <li class="linkdin"><a href="https://www.linkedin.com/company/megatasktechnologies" target="_blank" class="social_link"><i class="fa social_dot fa-linkedin" aria-hidden="true"></i></a></li>
-               <li class="instagram"><a href="https://www.instagram.com/megatasktechnologies/" target="_blank" class="social_link"><i class="fa social_dot fa-instagram" aria-hidden="true"></i></a></li>
-               <li class="twitter"><a href="https://twitter.com/megatasktech" target="_blank" class="social_link"><i class="fa social_dot fa-twitter" aria-hidden="true"></i></a></li>
-               <li class="youtube"><a href="https://www.youtube.com/channel/UCI-TtTxlPXLRRUBTcsFf4FQ" target="_blank" class="social_link"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-               <li class="pintrest"><a href="https://in.pinterest.com/megatasktechnologies" target="_blank" class="social_link"><i class="fa social_dot fa-pinterest" aria-hidden="true"></i></a></li>
-               <li class="map"><a href="https://www.google.com/maps/place/Megatask+Technologies+Pvt+Ltd/@28.5500896,77.3006582,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce5ae938a45bd:0xca1256cfd5780f44!8m2!3d28.5500849!4d77.3028469" class="social_link" target="_blank"><i class="fa social_dot fa fa-map-marker" aria-hidden="true"></i></a></li>
-            </ul>
+        </ul> -->
+           
           
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
         <ul class="list-style Service-li text-white">
-          <p class="modify-head  pb-4 mb-4"><strong>What We Do</strong></p>
+          <p class="modify-head  pb-4 mb-4"><strong>Services</strong></p>
           <li class="dd_footer"><a href="<?php echo base_url();?>ecommerce"><i class="fa fa-angle-double-right"></i>&nbsp;Ecommerce Website</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>website-redesign"><i class="fa fa-angle-double-right"></i>&nbsp;Website Redesign</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>responsive-website"><i class="fa fa-angle-double-right"></i>&nbsp;Responsive Website</a></li>
@@ -64,20 +59,66 @@
           <li class="dd_footer"><a href="<?php echo base_url();?>blog"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Blog </a></li>
         </ul>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
         <ul class="list-style Service-li text-white">
-          <p class="modify-head  pb-4 mb-4"><strong>Newsletter</strong></p>
-          <p class="footer-text-news">Join our mailing list to receive news and announcements</p>
-          <form class="row wow bounceInRight   form-inline megatask-form">
-            <div class="col-sm-12 pt-3">
-              <input type="text" class="text-center" style="width: 100%" placeholder="Your E-mail">
-            </div>
-            <div class="col-sm-12 pt-3">
-              <button type="submit" class="text-center mb-2 get_quote" style="width: 100%">Get A Subscribe</button>
-            </div>
-          </form>
+          <p class="modify-head  pb-4 mb-4"><strong>USEFUL LINKS</strong></p>
+          <li class="dd_footer"><a href="<?php echo base_url();?>ecommerce"><i class="fa fa-angle-double-right"></i>&nbsp;Ecommerce Website</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>website-redesign"><i class="fa fa-angle-double-right"></i>&nbsp;Website Redesign</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>responsive-website"><i class="fa fa-angle-double-right"></i>&nbsp;Responsive Website</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>maintenance-website"><i class="fa fa-angle-double-right"></i>&nbsp;Website Maintenance Service</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>web-development"><i class="fa fa-angle-double-right"></i>&nbsp;Web Development</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>blog"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Blog </a></li>
         </ul>
       </div>
+      <div class="col-md-3">
+        <ul class="list-style Service-li text-white">
+          <p class="modify-head  pb-4 mb-4"><strong>Contact Us</strong></p>
+           <i class="fa fa-map-signs" aria-hidden="true"></i> 
+            OFFICE   
+               <br>D-21 (Second Floor) Lane No.3, 
+              Abul Fazal Enclave-Part 1, 
+              Jamia Nagar, New Delhi-110025
+            </p> 
+
+          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:01142032023"><i class="fa fa-phone-square" aria-hidden="true"></i> 011 42032023</a></li> -->
+          <li class="dd_footer  wow bounceInUp"> <a href="tel:9871652511"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9871652511</a></li>
+        <!--  <li class="dd_footer  wow bounceInUp"> <a href="tel:+919990185786"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9990185786</a></li> --> 
+      
+
+           <!-- <hr style="border-top: 1px solid #fff;">
+          <p class="footer-text wow bounceInUp ">
+            <i class="fa fa-map-signs" aria-hidden="true"></i> 
+            OFFICE (Dubai )  
+            <br>The exchange tower,
+              <br>Business Bay, Dubai
+            </p>  -->
+             
+            <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:+971545871570"><i class="fa fa-phone-square" aria-hidden="true"></i> (+971)-54-587-1570</a></li> -->
+          <!-- <hr style="border-top: 1px solid #fff;"> -->
+          <li class="dd_footer  wow bounceInUp">
+            <a href="mailto:info@megatasktechnologies.com"> <i class="fa fa-envelope" aria-hidden="true"></i> info@megatasktechnologies.com</a>
+          </li>
+         <!--  <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span> </li>  -->
+        </ul> 
+           
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4"></div>
+      <div class="col-md-4">
+         < <ul class="foother-social wow bounceInUp">              
+               <li class="facebook"><a href="https://www.facebook.com/MegaTaskTechnology" target="_blank" class="social_link"><i class="fa social_dot fa-facebook-official" aria-hidden="true"></i></a></li>
+               <li class="linkdin"><a href="https://www.linkedin.com/company/megatasktechnologies" target="_blank" class="social_link"><i class="fa social_dot fa-linkedin" aria-hidden="true"></i></a></li>
+               <li class="instagram"><a href="https://www.instagram.com/megatasktechnologies/" target="_blank" class="social_link"><i class="fa social_dot fa-instagram" aria-hidden="true"></i></a></li>
+               <li class="twitter"><a href="https://twitter.com/megatasktech" target="_blank" class="social_link"><i class="fa social_dot fa-twitter" aria-hidden="true"></i></a></li>
+               <li class="youtube"><a href="https://www.youtube.com/channel/UCI-TtTxlPXLRRUBTcsFf4FQ" target="_blank" class="social_link"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+               <li class="pintrest"><a href="https://in.pinterest.com/megatasktechnologies" target="_blank" class="social_link"><i class="fa social_dot fa-pinterest" aria-hidden="true"></i></a></li>
+               <li class="map"><a href="https://www.google.com/maps/place/Megatask+Technologies+Pvt+Ltd/@28.5500896,77.3006582,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce5ae938a45bd:0xca1256cfd5780f44!8m2!3d28.5500849!4d77.3028469" class="social_link" target="_blank"><i class="fa social_dot fa fa-map-marker" aria-hidden="true"></i></a></li>
+            </ul>
+      </div>
+      <div class="col-md-4"></div>
     </div>
   </div>
 </section>
@@ -85,7 +126,7 @@
   <div class="container">
     <div class="row ">
       <div class="col-md-6 text-left">
-        <p>© Copyright 2018 Megatask Technologies PVT LTD. All Rights Reserved </p>
+        <p>© Copyright 2022 Megatask Technologies PVT LTD. All Rights Reserved </p>
       </div>
       <div class="col-md-6 text-left">
         <p><a href="<?php echo base_url()?>faqs">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>terms-and-contitions">Terms&nbsp;&nbsp;&&nbsp;&nbsp;Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>refund-and-cancellation-policy"> Refund/Cancellation&nbsp;Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>disclaimer">Disclaimer</a> </p>

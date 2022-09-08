@@ -149,7 +149,7 @@
          <div class="team-content">                    
            <div class="team-info">                        
              <h3 class="title">Amit Kumar</h3>                        
-             <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>                    
+             <span class="post"><kbd><kbd>SEO Expert</kbd></kbd></span>                    
             </div>                
           </div>            
         </div>        
@@ -162,7 +162,7 @@
                 <div class="team-content">
                     <div class="team-info">
                         <h3 class="title">Mohd Shoaib</h3>
-                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                        <span class="post"><kbd><kbd>SEO Expert</kbd></kbd></span>
                     </div>
                 </div>
             </div>
@@ -175,7 +175,7 @@
                 <div class="team-content">
                     <div class="team-info">
                         <h3 class="title">Ashu Kumar</h3>
-                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                        <span class="post"><kbd><kbd>SEO Expert</kbd></kbd></span>
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                 <div class="team-content">
                     <div class="team-info">
                         <h3 class="title">Hasan Raza</h3>
-                        <span class="post"><kbd><kbd>Sr SEO Expert</kbd></kbd></span>
+                        <span class="post"><kbd><kbd>SEO Expert</kbd></kbd></span>
                     </div>
                 </div>
             </div>

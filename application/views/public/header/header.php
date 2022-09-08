@@ -23,7 +23,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <meta name="p:domain_verify" content="633077d8d04e16efec6c70c02dbdd4d2"/>
-
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -64,10 +63,15 @@
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/megatask-animation.css">
 <link rel="icon" href="<?php echo base_url();?>assets/images/favicon.png" sizes="32x32" />
 <link rel="icon" href="<?php echo base_url();?>assets/images/favicon.png" sizes="192x192" />
-<meta   content="<?php echo base_url();?>assets/images/favicon.png" />
+<meta  content="<?php echo base_url();?>assets/images/favicon.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+<link rel="flaticon" href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/js/flat-ui.min.js">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 <!-- jquery-->
 
 

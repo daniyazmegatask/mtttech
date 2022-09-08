@@ -132,11 +132,6 @@
                         <i class="fa fa-plus" aria-hidden="true"></i>
 
                         Mobile Application:
-
-                                            
-
-                                            
-
                     </a>
 
                 </h4> </div>
