@@ -101,7 +101,7 @@
             </li>
             <li class="nav-item dropdown">
                <a class="nav-link dropdown-toggle build-nav nav-link-line" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Country
+              Location
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item nav-link-line" href="<?=base_url()?>contact-us"><i class="flag-icon flag-icon-in"></i>India</a>

@@ -51,23 +51,25 @@
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
           <p class="modify-head  pb-4 mb-4"><strong>Services</strong></p>
+          <li class="dd_footer"><a href="<?php echo base_url();?>digital-marketing"><i class="fa fa-angle-double-right"></i>&nbsp;Digital Marketing</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>ecommerce"><i class="fa fa-angle-double-right"></i>&nbsp;Ecommerce Website</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>website-redesign"><i class="fa fa-angle-double-right"></i>&nbsp;Website Redesign</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>responsive-website"><i class="fa fa-angle-double-right"></i>&nbsp;Responsive Website</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>maintenance-website"><i class="fa fa-angle-double-right"></i>&nbsp;Website Maintenance Service</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>web-development"><i class="fa fa-angle-double-right"></i>&nbsp;Web Development</a></li>
-          <li class="dd_footer"><a href="<?php echo base_url();?>blog"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Blog </a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>graphic-design"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Graphic Design </a></li>
         </ul>
       </div>
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
           <p class="modify-head  pb-4 mb-4"><strong>USEFUL LINKS</strong></p>
-          <li class="dd_footer"><a href="<?php echo base_url();?>ecommerce"><i class="fa fa-angle-double-right"></i>&nbsp;Ecommerce Website</a></li>
-          <li class="dd_footer"><a href="<?php echo base_url();?>website-redesign"><i class="fa fa-angle-double-right"></i>&nbsp;Website Redesign</a></li>
-          <li class="dd_footer"><a href="<?php echo base_url();?>responsive-website"><i class="fa fa-angle-double-right"></i>&nbsp;Responsive Website</a></li>
-          <li class="dd_footer"><a href="<?php echo base_url();?>maintenance-website"><i class="fa fa-angle-double-right"></i>&nbsp;Website Maintenance Service</a></li>
-          <li class="dd_footer"><a href="<?php echo base_url();?>web-development"><i class="fa fa-angle-double-right"></i>&nbsp;Web Development</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>"><i class="fa fa-angle-double-right"></i>&nbsp;Home</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>about-us"><i class="fa fa-angle-double-right"></i>&nbsp;About Us</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>our-team"><i class="fa fa-angle-double-right"></i>&nbsp;Our Team</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>portfolio"><i class="fa fa-angle-double-right"></i>&nbsp;Our Work</a></li>
+          <li class="dd_footer"><a href="<?php echo base_url();?>software-development"><i class="fa fa-angle-double-right"></i>&nbsp;Software Development</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>blog"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Blog </a></li>
+          <li class="dd_footer"><a href="<?=base_url()?>contact-us"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Contact Us </a></li>
         </ul>
       </div>
       <div class="col-md-3">
@@ -126,7 +128,7 @@
   <div class="container">
     <div class="row ">
       <div class="col-md-6 text-left">
-        <p>© Copyright 2022 Megatask Technologies PVT LTD. All Rights Reserved </p>
+        <p>© Copyright 2022 <a href="<?php echo base_url();?>">Megatask Technologies PVT LTD.</a> All Rights Reserved </p>
       </div>
       <div class="col-md-6 text-left">
         <p><a href="<?php echo base_url()?>faqs">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>terms-and-contitions">Terms&nbsp;&nbsp;&&nbsp;&nbsp;Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>refund-and-cancellation-policy"> Refund/Cancellation&nbsp;Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="<?php echo base_url()?>disclaimer">Disclaimer</a> </p>
